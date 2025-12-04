@@ -1,8 +1,8 @@
 import scrapy
 
 
-class ProduitsSpiderSpider(scrapy.Spider):
-    name = "produits_spider"
+class ProduitsEyrollesSpider(scrapy.Spider):
+    name = "produits_eyrolles"
     allowed_domains = ["comparateur"]
     start_urls = ["https://comparateur"]
 
