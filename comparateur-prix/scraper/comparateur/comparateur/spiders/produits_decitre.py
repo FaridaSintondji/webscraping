@@ -1,9 +1,10 @@
 import scrapy
+#Import de la classe ComparateurItem créée dans le fichier items
 from ..items import ComparateurItem
 
 class ProduitsDecitreSpider(scrapy.Spider):
     name = "produits_decitre"
-    allowed_domains = ["www.decitre.fr/"]
+    allowed_domains = ["www.decitre.fr"]
     start_urls = ["https://www.decitre.fr/"]
 
     def parse(self, response):
@@ -12,7 +13,24 @@ class ProduitsDecitreSpider(scrapy.Spider):
         
         for book in books:
             item = ComparateurItem()
-            item['titre'] = book.xpath('./div[@class="product-card-infos__details"]/div[@class="product-card-infos__details__texts"]/a[@class="product-card-infos__details__texts__link link--active"]/h3[@class="product-card-infos__details__texts__link__title"]/text()').get()
-            item['prix'] = book.xpath('./div[@class="product-card-price"]/div[@class="price"]/text()').get()
-            item['lien'] = book.xpath('./div[@class="product-card-infos__details"]/div[@class="product-card-infos__details__texts"]/a/@href').get()
-            yield item
+            #Récupération du lien du livre
+            lien =book.xpath('./div[@class="product-card-infos__details"]/div[@class="product-card-infos__details__texts"]/a/@href').get()
+            #Utilisation de urljoin pour transformer le lien récupéré en un vrai lien qui marche
+            item['url'] = response.urljoin(lien)
+            #On vérifie si le lien existe
+            if lien:
+                yield response.follow(lien, 
+                                    callback = self.parse_lien,
+                                    #utilisation de cb_kwargs pour passer l'objet item à la classe parse_lien
+                                    cb_kwargs={'item':item})
+            
+            
+
+    def parse_lien(self, response, item):
+        #Récupération du titre du livre
+        item['titre'] = response.xpath('//h1/text()').get()
+        #Récupération du prix
+        item['prix'] = response.xpath('//a[@class="product-button selected link--active"]/div[@class="price"]/text()').get()
+        yield item
+            
+            
