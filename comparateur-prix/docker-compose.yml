@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  db:
+    build: ./db
+    environment:
+    MYSQL_ROOT_PASSWORD: toto
+    MYSQL_DATABASE: Produits
+    MYSQL_USER: toto
+    MYSQL_PASSWORD: toto
+
+  volumes:
+    - db_data: /var/lib/mysql 
+  
+  networks:
+    - localhost
