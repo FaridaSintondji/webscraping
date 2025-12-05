@@ -5,7 +5,7 @@ from ..items import ComparateurItem
 class ProduitsDecitreSpider(scrapy.Spider):
     name = "produits_decitre"
     allowed_domains = ["www.decitre.fr"]
-    start_urls = ["https://www.decitre.fr/"]
+    start_urls = ["https://www.decitre.fr/livres.html"]
 
     def parse(self, response):
         

@@ -6,7 +6,7 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
-
+import mysql.connector
 
 class ComparateurPipeline:
     def process_item(self, item, spider):
@@ -28,4 +28,25 @@ class NettoyagePipeline:
 
         item['prix'] = prix
         
+        return item
+    
+class MysqlPipeline:
+    def process_item(self, item, spider):
+        mydb = mysql.connector.connect(
+            host="localhost",
+            user="toto",
+            password="toto",
+            database="Produits"
+        )
+        mycursor=mydb.cursor()
+
+        sql = "INSERT INTO Livre (titre, prix, url) VALUES (%s,%s,%s)"
+        val = (item['titre'], item['prix'], item['url'])
+        mycursor.execute(sql, val)
+
+        mydb.commit()
+
+        print(mycursor.rowcount, "record inserted.")
+
+
         return item
