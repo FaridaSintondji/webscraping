@@ -21,7 +21,7 @@ services:
     networks:
       - mon_reseau        # Il se branche sur le même "câble" que la db
     # Cette commande lance le robot automatiquement
-    command: scrapy crawl produits_decitre 
+    command: sh -c "scrapy crawl produits_decitre && scrapy crawl produits_eyrolles"
 
   # phpmyadmin
   phpmyadmin:

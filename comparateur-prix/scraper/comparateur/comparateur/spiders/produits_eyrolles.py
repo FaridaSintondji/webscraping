@@ -1,5 +1,5 @@
 import scrapy
-
+from ..items import ComparateurItem
 
 class ProduitsEyrollesSpider(scrapy.Spider):
     name = "produits_eyrolles"
@@ -21,16 +21,18 @@ class ProduitsEyrollesSpider(scrapy.Spider):
         self.logger.info(f"NB LIENS TROUVES: {len(livres)}")
 
         for livre in livres:
+            item = ComparateurItem()
             lien = livre.xpath("./@href").get()
+            item['url'] = response.urljoin(lien)
             if lien:
-                yield response.follow(lien, callback=self.parse_lien)
+                yield response.follow(lien, callback=self.parse_lien, cb_kwargs={'item':item})
 
         # Pagination (si jamais il y a une page suivante)
         lien_suivant = response.xpath("//a[@rel='next']/@href").get()
         if lien_suivant is not None:
             yield response.follow(lien_suivant, callback=self.parse)
 
-    def parse_lien(self, response):
+    def parse_lien(self, response, item):
         """
         PAGE DETAIL D'UN LIVRE
         - on récupère le titre et le prix
@@ -44,14 +46,15 @@ class ProduitsEyrollesSpider(scrapy.Spider):
             morceaux = [m.strip() for m in morceaux if m.strip()]
             prix = "".join(morceaux)
 
+        item['prix']=prix
+
         # 🔎 Si pas de titre ou pas de prix → on ignore cette page
         if not titre or not prix:
             return
 
-        yield {
-            "titre": titre,
-            "prix": prix,
-            "url": response.url,
-            "source": "eyrolles",
-        }
+        item['titre']=titre
+        item['prix']=prix
+        item['site']='Eyrolles'
+
+        yield item
 
