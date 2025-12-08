@@ -9,4 +9,7 @@ import scrapy
 class ComparateurItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    titre = scrapy.Field()
+    prix = scrapy.Field()
+    url = scrapy.Field()
+    site = scrapy.Field()

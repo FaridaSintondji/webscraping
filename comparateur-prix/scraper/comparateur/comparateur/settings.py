@@ -60,9 +60,11 @@ DOWNLOAD_DELAY = 1
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    "comparateur.pipelines.ComparateurPipeline": 300,
-#}
+ITEM_PIPELINES = {
+    "comparateur.pipelines.NettoyagePipeline": 300,
+    "comparateur.pipelines.MysqlPipeline": 400
+
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

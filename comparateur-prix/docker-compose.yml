@@ -1,0 +1,42 @@
+version: '3.8'
+#Base de données
+services:
+  db:
+    build: ./db
+    environment:
+      MYSQL_ROOT_PASSWORD: toto
+      MYSQL_DATABASE: Produits
+      MYSQL_USER: toto
+      MYSQL_PASSWORD: toto
+    volumes:
+      - db_data:/var/lib/mysql
+    networks:
+      - mon_reseau
+
+  # Scraper
+  scraper:
+    build: ./scraper  
+    depends_on:
+      - db                # Il attend que la BDD soit lancée avant de démarrer
+    networks:
+      - mon_reseau        # Il se branche sur le même "câble" que la db
+    # Cette commande lance le robot automatiquement
+    command: scrapy crawl produits_decitre 
+
+  # phpmyadmin
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    depends_on:
+      - db
+    ports:
+      - "8081:80"   
+    environment:
+      PMA_HOST: db      
+    networks:
+      - mon_reseau
+
+volumes:
+  db_data:
+
+networks:
+  mon_reseau:
