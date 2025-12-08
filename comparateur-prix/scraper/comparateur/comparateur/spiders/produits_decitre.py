@@ -31,6 +31,7 @@ class ProduitsDecitreSpider(scrapy.Spider):
         item['titre'] = response.xpath('//h1/text()').get()
         #Récupération du prix
         item['prix'] = response.xpath('//a[@class="product-button selected link--active"]/div[@class="price"]/text()').get()
+        item['site'] = 'Decitre'
         yield item
             
             

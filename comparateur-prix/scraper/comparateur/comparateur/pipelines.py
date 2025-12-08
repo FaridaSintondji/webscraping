@@ -33,15 +33,15 @@ class NettoyagePipeline:
 class MysqlPipeline:
     def process_item(self, item, spider):
         mydb = mysql.connector.connect(
-            host="localhost",
+            host="db",
             user="toto",
             password="toto",
             database="Produits"
         )
         mycursor=mydb.cursor()
 
-        sql = "INSERT INTO Livre (titre, prix, url) VALUES (%s,%s,%s)"
-        val = (item['titre'], item['prix'], item['url'])
+        sql = "INSERT INTO Livre (titre, prix, url, site) VALUES (%s,%s,%s, %s)"
+        val = (item['titre'], item['prix'], item['url'], item['site'])
         mycursor.execute(sql, val)
 
         mydb.commit()

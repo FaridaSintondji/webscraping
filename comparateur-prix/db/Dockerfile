@@ -5,4 +5,4 @@ FROM mysql:5.7
 ENV MYSQL_DATABASE = Produits
 ENV MYSQL_ROOT_PASSWORD = toto
 
-COPY init.sql /docker-entrypoint_initdb.d/
+COPY init.sql /docker-entrypoint-initdb.d/

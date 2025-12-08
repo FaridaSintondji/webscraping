@@ -12,3 +12,4 @@ class ComparateurItem(scrapy.Item):
     titre = scrapy.Field()
     prix = scrapy.Field()
     url = scrapy.Field()
+    site = scrapy.Field()
