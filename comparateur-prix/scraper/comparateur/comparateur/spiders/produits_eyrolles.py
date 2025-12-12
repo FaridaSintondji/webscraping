@@ -15,7 +15,6 @@ class ProduitsEyrollesSpider(scrapy.Spider):
         - on suit chaque lien vers parse_lien
         """
 
-        # 👉 UNIQUEMENT les vraies fiches livres : href contient /Livre/
         livres = response.xpath("//a[contains(@href, '/Livre/')]")
 
         self.logger.info(f"NB LIENS TROUVES: {len(livres)}")
@@ -46,7 +45,7 @@ class ProduitsEyrollesSpider(scrapy.Spider):
             morceaux = [m.strip() for m in morceaux if m.strip()]
             prix = "".join(morceaux)
 
-        # 🔎 Si pas de titre ou pas de prix → on ignore cette page
+        # Si pas de titre ou pas de prix → on ignore cette page
         if not titre or not prix:
             return
 

@@ -18,11 +18,6 @@ class ProduitsMollatSpider(scrapy.Spider):
         - suivre chaque lien vers parse_lien()
         """
 
-        # ----------------------------------------------------
-        # XPath pour sélectionner les blocs produits
-        # Dans ta capture : //div[contains(@class, "formatable-result-item")]
-        # ----------------------------------------------------
-        #livres = response.xpath('//div[@class = "notice-content center"]')
         livres = response.xpath('//div[@class="center"]')
 
         self.logger.info(f"NB BLOCS TROUVÉS : {len(livres)}")
@@ -30,10 +25,6 @@ class ProduitsMollatSpider(scrapy.Spider):
         for livre in livres:
             item = ComparateurItem()
 
-            # ----------------------------------------------------
-            # XPath pour récupérer le lien du livre
-            # Exemple : .//div[@class="notice-title h3"]/a/@href
-            # ----------------------------------------------------
             lien = livre.xpath('./div[@class="notice-title h3"]/a/@href').get()
             item["url"] = response.urljoin(lien)
             if lien:
@@ -53,16 +44,7 @@ class ProduitsMollatSpider(scrapy.Spider):
         - récupérer titre & prix
         """
 
-        # ----------------------------------------------------
-        #XPath du titre
-        # Exemple probable : //h1/text()
-        # ----------------------------------------------------
         titre = response.xpath('//h1/text()').get()
-
-        # ----------------------------------------------------
-        # XPath du prix
-        # Exemple probable : //div[contains(@class, "notice-price")]/text()
-        # ----------------------------------------------------
         prix = response.xpath('//div[@class="main-panel center"]/div[@class="notice-price notice-price-big"]/text()').get()
 
         if not titre or not prix:
