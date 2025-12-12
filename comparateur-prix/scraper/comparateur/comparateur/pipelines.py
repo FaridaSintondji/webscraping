@@ -33,7 +33,7 @@ class NettoyagePipeline:
 class MysqlPipeline:
     def process_item(self, item, spider):
         mydb = mysql.connector.connect(
-            host="db",
+            host="localhost",
             user="toto",
             password="toto",
             database="Produits"

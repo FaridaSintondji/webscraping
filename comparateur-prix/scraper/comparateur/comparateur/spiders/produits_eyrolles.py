@@ -46,8 +46,6 @@ class ProduitsEyrollesSpider(scrapy.Spider):
             morceaux = [m.strip() for m in morceaux if m.strip()]
             prix = "".join(morceaux)
 
-        item['prix']=prix
-
         # 🔎 Si pas de titre ou pas de prix → on ignore cette page
         if not titre or not prix:
             return

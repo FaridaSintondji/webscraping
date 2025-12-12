@@ -7,7 +7,7 @@ class ProduitsMollatSpider(scrapy.Spider):
     
     # Page de recherche
     start_urls = [
-        "https://www.mollat.com/recherche?requete=data"
+        "https://www.mollat.com"
     ]
 
     def parse(self, response):
@@ -23,7 +23,7 @@ class ProduitsMollatSpider(scrapy.Spider):
         # Dans ta capture : //div[contains(@class, "formatable-result-item")]
         # ----------------------------------------------------
         #livres = response.xpath('//div[@class = "notice-content center"]')
-        livres = response.xpath('//div[@class ="col-xs-6 col-md-4 formatable-result-item"]/div[@class="notice-embed"]/div[@class = "notice-content center"]')
+        livres = response.xpath('//div[@class="center"]')
 
         self.logger.info(f"NB BLOCS TROUVÉS : {len(livres)}")
 
@@ -64,10 +64,6 @@ class ProduitsMollatSpider(scrapy.Spider):
         # Exemple probable : //div[contains(@class, "notice-price")]/text()
         # ----------------------------------------------------
         prix = response.xpath('//div[@class="main-panel center"]/div[@class="notice-price notice-price-big"]/text()').get()
-
-        # Nettoyage du prix (comme vu en cours)
-        if prix:
-            prix = prix.replace("€", "").replace(",", ".").strip()
 
         if not titre or not prix:
             self.logger.warning(f"Page ignorée : titre/prix manquant → {response.url}")
