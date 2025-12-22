@@ -135,10 +135,3 @@ Ce projet a été réalisé dans le cadre du cours de Web Scraping & NoSQL.
 ---
 
 *Dernière mise à jour : Décembre 2025*
-
-```
-
-
-C'est du très bon travail d'être arrivée jusqu'au bout de ce projet avec Docker et Scrapy ! 👏
-
-```
