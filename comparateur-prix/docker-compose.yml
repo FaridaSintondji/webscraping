@@ -17,12 +17,17 @@ services:
   scraper:
     build: ./scraper  
     depends_on:
-      - db                # Il attend que la BDD soit lancée avant de démarrer
+      - db     
+    volumes:
+      - ./scraper:/app
+    working_dir: /app/comparateur
+    command: tail -f /dev/null          # Il attend que la BDD soit lancée avant de démarrer
     networks:
       - mon_reseau        # Il se branche sur le même "câble" que la db
     # Cette commande lance le robot automatiquement
-    command: sh -c "scrapy crawl produits_decitre && scrapy crawl produits_eyrolles"
-
+    #command: sh -c "scrapy crawl produits_decitre && scrapy crawl produits_eyrolles"
+    ports:
+      - "8501:8501"
   # phpmyadmin
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
