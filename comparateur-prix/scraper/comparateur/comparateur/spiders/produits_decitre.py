@@ -5,7 +5,7 @@ from ..items import ComparateurItem
 class ProduitsDecitreSpider(scrapy.Spider):
     name = "produits_decitre"
     allowed_domains = ["www.decitre.fr"]
-    start_urls = ["https://www.decitre.fr/livres.html"]
+    start_urls = ["https://www.decitre.fr/auteur/16234522/freida+mcfadden"]
 
     def parse(self, response):
         
@@ -24,7 +24,14 @@ class ProduitsDecitreSpider(scrapy.Spider):
                                     #utilisation de cb_kwargs pour passer l'objet item à la classe parse_lien
                                     cb_kwargs={'item':item})
             
-            
+            #Pour scraper sur les autres pages s'il y en a
+            next_pages = response.xpath('//a[contains(@href, "?p=")]/@href').getall()
+
+            if next_pages:
+                self.logger.info(f"Liens de pagination trouvés : {len(next_pages)}")
+                
+                for page_url in next_pages:
+                    yield response.follow(page_url, callback=self.parse)
 
     def parse_lien(self, response, item):
         #Récupération du titre du livre

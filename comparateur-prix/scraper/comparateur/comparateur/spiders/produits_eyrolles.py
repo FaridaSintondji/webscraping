@@ -5,7 +5,7 @@ class ProduitsEyrollesSpider(scrapy.Spider):
     name = "produits_eyrolles"
     allowed_domains = ["www.eyrolles.com"]
     start_urls = [
-        "https://www.eyrolles.com/Recherche/?q=data"
+        "https://www.eyrolles.com/Recherche/?q=Auteur%20:%20Freida%20McFadden"
     ]
 
     def parse(self, response):
@@ -27,10 +27,14 @@ class ProduitsEyrollesSpider(scrapy.Spider):
                 yield response.follow(lien, callback=self.parse_lien, cb_kwargs={'item':item})
 
         # Pagination (si jamais il y a une page suivante)
-        lien_suivant = response.xpath("//a[@rel='next']/@href").get()
-        if lien_suivant is not None:
-            yield response.follow(lien_suivant, callback=self.parse)
+        next_page = response.xpath('//a[@aria-label="Suivant"]/@href').get()
 
+        if next_page:
+            self.logger.info(f"Eyrolles - Page suivante trouvée : {next_page}")
+            
+            yield response.follow(next_page, callback=self.parse)
+
+    
     def parse_lien(self, response, item):
         """
         PAGE DETAIL D'UN LIVRE

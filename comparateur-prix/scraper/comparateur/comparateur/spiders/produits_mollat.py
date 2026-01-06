@@ -7,7 +7,7 @@ class ProduitsMollatSpider(scrapy.Spider):
     
     # Page de recherche
     start_urls = [
-        "https://www.mollat.com"
+        "https://www.mollat.com/Recherche?requete=McFadden%2C%20Freida"
     ]
 
     def parse(self, response):
@@ -18,14 +18,14 @@ class ProduitsMollatSpider(scrapy.Spider):
         - suivre chaque lien vers parse_lien()
         """
 
-        livres = response.xpath('//div[@class="center"]')
+        livres = response.xpath('//div[@class="notice-embed"]')
 
         self.logger.info(f"NB BLOCS TROUVÉS : {len(livres)}")
 
         for livre in livres:
             item = ComparateurItem()
 
-            lien = livre.xpath('./div[@class="notice-title h3"]/a/@href').get()
+            lien = livre.xpath('.//a/@href').get()
             item["url"] = response.urljoin(lien)
             if lien:
                 
