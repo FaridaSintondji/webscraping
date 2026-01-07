@@ -11,8 +11,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-chambre-sauve-noel-9782702194225.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782376101635",
@@ -26,23 +26,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 8.0,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-fee-noire-9782376101635/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782264088147",
-    "titre": "Rafael, derniers jours",
-    "nb_sites": 1,
-    "meilleur_prix": 8.3,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 8.3,
-    "Mollat_url": "https://www.mollat.com/livres/3410328/gregory-mcdonald-rafael-derniers-jours"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782290415634",
@@ -56,8 +41,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-3-la-femme-de-menage-voit-tout-9782290415634.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782253249917",
@@ -71,24 +56,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/une-enquete-du-commandant-gaspard-cloux-tome-1-morts-thematiques-9782253249917.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782290432815",
-    "titre": "Mens-moi à l'oreille",
-    "nb_sites": 2,
-    "meilleur_prix": 8.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 8.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/mens-moi-a-l-oreille-9782290432815/",
-    "Mollat_prix": 8.9,
-    "Mollat_url": "https://www.mollat.com/livres/3400547/amy-tintera-mens-moi-a-l-oreille"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782824627410",
@@ -102,8 +71,23 @@
     "Decitre_url": null,
     "Eyrolles_prix": 8.9,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-maison-de-vacances-9782824627410/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782290432815",
+    "titre": "Mens-moi à l'oreille",
+    "nb_sites": 1,
+    "meilleur_prix": 8.9,
+    "meilleurs_sites": [
+      "Eyrolles"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": 8.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/mens-moi-a-l-oreille-9782290432815/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9791041420674",
@@ -117,8 +101,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-trilogie-blanche-tome-1-la-mort-en-blanc-9791041420674.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782266352574",
@@ -132,23 +116,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/comme-si-de-rien-n-etait-9782266352574.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782266355377",
-    "titre": "Jusqu'à ce qu'elle se soumettent",
-    "nb_sites": 1,
-    "meilleur_prix": 9.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.0,
-    "Mollat_url": "https://www.mollat.com/livres/3410942/sandrine-lucchini-jusqu-a-ce-qu-elle-se-soumettent"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782264083494",
@@ -162,8 +131,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 9.2,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/qui-a-tue-le-minotaure--9782264083494/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782253249900",
@@ -177,8 +146,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/une-enquete-du-commandant-gaspard-cloux-tome-2-rien-qu-une-belle-perdue-9782253249900.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782266352970",
@@ -192,53 +161,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 9.3,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-mouettes-mission-sahel-9782266352970/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782253254515",
-    "titre": "Blackleaf : fuir ou mourir",
-    "nb_sites": 1,
-    "meilleur_prix": 9.4,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.4,
-    "Mollat_url": "https://www.mollat.com/livres/3398768/isabelle-salle-blackleaf-fuir-ou-mourir"
-  },
-  {
-    "ean": "9782253253419",
-    "titre": "L'île : thriller",
-    "nb_sites": 1,
-    "meilleur_prix": 9.4,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.4,
-    "Mollat_url": "https://www.mollat.com/livres/3398770/jerome-loubry-l-ile-thriller"
-  },
-  {
-    "ean": "9782404081236",
-    "titre": "On achève bien les chevaux",
-    "nb_sites": 1,
-    "meilleur_prix": 9.4,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.4,
-    "Mollat_url": "https://www.mollat.com/livres/3401783/horace-mccoy-on-acheve-bien-les-chevaux"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782253254904",
@@ -252,8 +176,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/si-c-etait-toi-9782253254904.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782264067869",
@@ -267,8 +191,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 9.5,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-chien-des-basqueville-9782264067869/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782073135407",
@@ -282,23 +206,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 9.5,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-dossier-1569-9782073135407/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782264084972",
-    "titre": "Les deux visages du monde",
-    "nb_sites": 1,
-    "meilleur_prix": 9.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.5,
-    "Mollat_url": "https://www.mollat.com/livres/3359213/david-joy-les-deux-visages-du-monde"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782266348898",
@@ -312,8 +221,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/l-heure-bleue-9782266348898.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782266354936",
@@ -327,8 +236,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/les-quatre-petits-meurtres-de-noel-9782266354936.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782213733920",
@@ -343,56 +252,38 @@
     "Decitre_url": "https://www.decitre.fr/livres/brulez-tout-9782213733920.html",
     "Eyrolles_prix": 9.9,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/brulez-tout-9782213733920/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782253254973",
     "titre": "Dernière soirée",
-    "nb_sites": 2,
+    "nb_sites": 1,
     "meilleur_prix": 9.9,
     "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
+      "Eyrolles"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
     "Eyrolles_prix": 9.9,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/derniere-soiree-9782253254973/",
-    "Mollat_prix": 9.9,
-    "Mollat_url": "https://www.mollat.com/livres/3398771/lisa-gardner-derniere-soiree"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9791041425365",
     "titre": "Ils n'ont rien vu",
-    "nb_sites": 2,
+    "nb_sites": 1,
     "meilleur_prix": 9.9,
     "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
+      "Eyrolles"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
     "Eyrolles_prix": 9.9,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/ils-n-ont-rien-vu-9791041425365/",
-    "Mollat_prix": 9.9,
-    "Mollat_url": "https://www.mollat.com/livres/3404691/andrea-mara-ils-n-ont-rien-vu"
-  },
-  {
-    "ean": "9782253254546",
-    "titre": "Survivantes",
-    "nb_sites": 2,
-    "meilleur_prix": 9.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 9.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/survivantes-9782253254546/",
-    "Mollat_prix": 9.9,
-    "Mollat_url": "https://www.mollat.com/livres/3398577/cedric-sire-survivantes"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782404080765",
@@ -406,8 +297,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-librairie-des-chats-noirs-9782404080765.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782253254591",
@@ -421,68 +312,23 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-saga-du-soleil-noir-le-livre-des-merveilles-9782253254591.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782264087508",
-    "titre": "Les enquêtes de Louis Fronsac. Sauver Marie Mancini",
+    "ean": "9782253254546",
+    "titre": "Survivantes",
     "nb_sites": 1,
     "meilleur_prix": 9.9,
     "meilleurs_sites": [
-      "Mollat"
+      "Eyrolles"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.9,
-    "Mollat_url": "https://www.mollat.com/livres/3410037/jean-d-aillon-les-enquetes-de-louis-fronsac-sauver-marie-mancini"
-  },
-  {
-    "ean": "9782330215835",
-    "titre": "La poupée",
-    "nb_sites": 1,
-    "meilleur_prix": 10.2,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 10.2,
-    "Mollat_url": "https://www.mollat.com/livres/3406035/yrsa-sigurdardottir-la-poupee"
-  },
-  {
-    "ean": "9782266339186",
-    "titre": "Onze menteurs",
-    "nb_sites": 1,
-    "meilleur_prix": 10.3,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 10.3,
-    "Mollat_url": "https://www.mollat.com/livres/3410215/robert-gold-onze-menteurs"
-  },
-  {
-    "ean": "9782330215804",
-    "titre": "L'araignée",
-    "nb_sites": 1,
-    "meilleur_prix": 10.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 10.5,
-    "Mollat_url": "https://www.mollat.com/livres/3406048/lars-kepler-l-araignee"
+    "Eyrolles_prix": 9.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/survivantes-9782253254546/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782264085115",
@@ -496,68 +342,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/l-enigme-de-turnglass-9782264085115.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782367346540",
-    "titre": "Eiao",
-    "nb_sites": 1,
-    "meilleur_prix": 11.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 11.0,
-    "Mollat_url": "https://www.mollat.com/livres/3406922/marin-ledun-eiao"
-  },
-  {
-    "ean": "9782743669270",
-    "titre": "L'ombre portée",
-    "nb_sites": 1,
-    "meilleur_prix": 11.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 11.5,
-    "Mollat_url": "https://www.mollat.com/livres/3406648/hugues-pagan-l-ombre-portee"
-  },
-  {
-    "ean": "9782404081199",
-    "titre": "Les aventures de Lily Kintner. Ceux qu'on sauve",
-    "nb_sites": 1,
-    "meilleur_prix": 11.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 11.9,
-    "Mollat_url": "https://www.mollat.com/livres/3401784/peter-swanson-les-aventures-de-lily-kintner-ceux-qu-on-sauve"
-  },
-  {
-    "ean": "9782073117779",
-    "titre": "Bleus, blancs, rouges. Vol. 1",
-    "nb_sites": 1,
-    "meilleur_prix": 12.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 12.0,
-    "Mollat_url": "https://www.mollat.com/livres/3405187/benjamin-dierstein-bleus-blancs-rouges-vol-1"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782290430781",
@@ -571,8 +357,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-3-la-femme-de-menage-voit-tout-9782290415634.html?sku=9782290430781",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782226491015",
@@ -586,8 +372,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/hamish-macbeth-tome-27-meurtres-en-cascade-9782226491015.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782226491022",
@@ -601,8 +387,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/hamish-macbeth-tome-28-coup-de-crayon-9782226491022.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782266361071",
@@ -616,8 +402,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/j-aime-votre-peur-9782266361071.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782290416990",
@@ -631,23 +417,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/le-chat-du-bibliothecaire-tome-10-le-noel-de-charlie-harris-9782290416990.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782374489797",
-    "titre": "Les enquêtes de l'inspecteur Higgins. Vol. 59. L'alchimiste de Lyon",
-    "nb_sites": 1,
-    "meilleur_prix": 14.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 14.9,
-    "Mollat_url": "https://www.mollat.com/livres/3410944/christian-jacq-les-enquetes-de-l-inspecteur-higgins-vol-59-l-alchimiste-de-lyon"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9791035330385",
@@ -661,8 +432,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 14.99,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-enquetes-de-marika-farkas-l-integrale-9791035330385/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782351783672",
@@ -676,23 +447,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/si-les-chats-pouvaient-parler-9782351783672.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782385532185",
-    "titre": "Killing me softly",
-    "nb_sites": 1,
-    "meilleur_prix": 15.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 15.9,
-    "Mollat_url": "https://www.mollat.com/livres/3406646/jacky-schwartzmann-killing-me-softly"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782749181486",
@@ -706,8 +462,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/les-enquetes-d-hannah-swensen-tome-14-meurtres-et-roule-a-la-cannelle-9782749181486.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782824626390",
@@ -721,8 +477,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 15.9,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/petits-crimes-et-jardin-secret-tome-3-9782824626390/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782385756116",
@@ -736,8 +492,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 16.99,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/remy-d-aversa-l-integrale-9782385756116/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9791095023746",
@@ -751,23 +507,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 18.0,
     "Eyrolles_url": "https://www.eyrolles.com/Loisirs/Livre/quelqu-un-a-qui-tendre-la-main-9791095023746/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782264085788",
-    "titre": "Une citadelle en enfer",
-    "nb_sites": 1,
-    "meilleur_prix": 18.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 18.5,
-    "Mollat_url": "https://www.mollat.com/livres/3346611/francois-henri-soulie-une-citadelle-en-enfer"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782494202290",
@@ -781,23 +522,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 19.0,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/l-ete-ou-j-ai-disparu-9782494202290/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782393433542",
-    "titre": "Sécher tes larmes. Une enquête d’Emma Fauvel",
-    "nb_sites": 1,
-    "meilleur_prix": 19.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 19.9,
-    "Mollat_url": "https://www.mollat.com/livres/3413976/lepage-mei-secher-tes-larmes-une-enquete-d-emma-fauvel"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782381227849",
@@ -811,39 +537,23 @@
     "Decitre_url": "https://www.decitre.fr/livres/ne-le-laissez-pas-entrer-9782381227849.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782073074928",
     "titre": "L'autre enquête",
-    "nb_sites": 2,
+    "nb_sites": 1,
     "meilleur_prix": 20.0,
     "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
+      "Eyrolles"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
     "Eyrolles_prix": 20.0,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/l-autre-enquete-9782073074928/",
-    "Mollat_prix": 20.0,
-    "Mollat_url": "https://www.mollat.com/livres/3405189/jorn-lier-horst-une-enquete-de-william-wisting-l-autre-enquete"
-  },
-  {
-    "ean": "9782073105004",
-    "titre": "La mort malgré lui",
-    "nb_sites": 1,
-    "meilleur_prix": 20.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 20.0,
-    "Mollat_url": "https://www.mollat.com/livres/3406094/armelle-herisson-la-mort-malgre-lui"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782413088547",
@@ -857,23 +567,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/le-village-9782413088547.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782702452875",
-    "titre": "Le Bâtiment",
-    "nb_sites": 1,
-    "meilleur_prix": 20.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 20.9,
-    "Mollat_url": "https://www.mollat.com/livres/3399845/mehdi-bayad-le-batiment"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782226502810",
@@ -887,53 +582,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 20.9,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/seules-les-rivieres-9782226502810/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782749960883",
-    "titre": "La poussière des morts",
-    "nb_sites": 1,
-    "meilleur_prix": 20.95,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 20.95,
-    "Mollat_url": "https://www.mollat.com/livres/3392204/cecile-cabanac-la-poussiere-des-morts"
-  },
-  {
-    "ean": "9782383992196",
-    "titre": "Toutes les fêtes de Noël commencent par un  meurtre",
-    "nb_sites": 1,
-    "meilleur_prix": 21.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 21.0,
-    "Mollat_url": "https://www.mollat.com/livres/3362260/benjamin-stevenson-toutes-les-fetes-de-noel-commencent-par-un-meurtre"
-  },
-  {
-    "ean": "9782072796432",
-    "titre": "Ultima",
-    "nb_sites": 1,
-    "meilleur_prix": 21.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 21.0,
-    "Mollat_url": "https://www.mollat.com/livres/3368602/ingrid-astier-ultima"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782283042069",
@@ -947,40 +597,23 @@
     "Decitre_url": "https://www.decitre.fr/livres/le-crime-de-le-floch-9782283042069.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782226504340",
     "titre": "Je suis né du diable",
-    "nb_sites": 2,
+    "nb_sites": 1,
     "meilleur_prix": 21.9,
     "meilleurs_sites": [
-      "Decitre",
-      "Mollat"
+      "Decitre"
     ],
     "Decitre_prix": 21.9,
     "Decitre_url": "https://www.decitre.fr/livres/je-suis-ne-du-diable-9782226504340.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": 21.9,
-    "Mollat_url": "https://www.mollat.com/livres/3361135/jean-christophe-grange-je-suis-ne-du-diable"
-  },
-  {
-    "ean": "9782702190753",
-    "titre": "Le garçon éternel",
-    "nb_sites": 2,
-    "meilleur_prix": 21.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 21.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-garcon-eternel-9782702190753/",
-    "Mollat_prix": 21.9,
-    "Mollat_url": "https://www.mollat.com/livres/3398050/jerome-loubry-le-garcon-eternel"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782365699129",
@@ -994,54 +627,23 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-menteuse-9782365699129.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782265159686",
-    "titre": "Love, mom",
+    "ean": "9782702190753",
+    "titre": "Le garçon éternel",
     "nb_sites": 1,
-    "meilleur_prix": 21.95,
+    "meilleur_prix": 21.9,
     "meilleurs_sites": [
-      "Mollat"
+      "Eyrolles"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 21.95,
-    "Mollat_url": "https://www.mollat.com/livres/3410828/iliana-xander-love-mom"
-  },
-  {
-    "ean": "9782824626437",
-    "titre": "Les disparues",
-    "nb_sites": 2,
-    "meilleur_prix": 22.0,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 22.0,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-disparues-9782824626437/",
-    "Mollat_prix": 22.0,
-    "Mollat_url": "https://www.mollat.com/livres/3404690/jessie-garcia-les-disparues"
-  },
-  {
-    "ean": "9782330215880",
-    "titre": "Cathédrale : histoire des vivants, des morts, et de ceux qui ne les ont pas connus",
-    "nb_sites": 1,
-    "meilleur_prix": 22.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 22.0,
-    "Mollat_url": "https://www.mollat.com/livres/3406044/tarik-noui-cathedrale-histoire-des-vivants-des-morts-et-de-ceux-qui-ne-les-ont-pas-connus"
+    "Eyrolles_prix": 21.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-garcon-eternel-9782702190753/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782824626420",
@@ -1055,8 +657,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 22.0,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-chute-9782824626420/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9791040121718",
@@ -1070,8 +672,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-trilogie-blanche-tome-2-un-calme-blanc-9791040121718.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782824627151",
@@ -1085,39 +687,23 @@
     "Decitre_url": "https://www.decitre.fr/livres/le-boyfriend-9782824627151.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9791033922834",
-    "titre": "Sacrifié",
+    "ean": "9782824626437",
+    "titre": "Les disparues",
     "nb_sites": 1,
-    "meilleur_prix": 22.5,
+    "meilleur_prix": 22.0,
     "meilleurs_sites": [
-      "Mollat"
+      "Eyrolles"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 22.5,
-    "Mollat_url": "https://www.mollat.com/livres/3400546/henrik-fexeus-sacrifie"
-  },
-  {
-    "ean": "9782226498885",
-    "titre": "Douze ans après",
-    "nb_sites": 2,
-    "meilleur_prix": 22.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 22.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/douze-ans-apres-9782226498885/",
-    "Mollat_prix": 22.9,
-    "Mollat_url": "https://www.mollat.com/livres/3399101/lisa-gardner-douze-ans-apres"
+    "Eyrolles_prix": 22.0,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-disparues-9782824626437/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782226470096",
@@ -1131,8 +717,23 @@
     "Decitre_url": "https://www.decitre.fr/livres/8-2-secondes-9782226470096.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782226498885",
+    "titre": "Douze ans après",
+    "nb_sites": 1,
+    "meilleur_prix": 22.9,
+    "meilleurs_sites": [
+      "Eyrolles"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": 22.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/douze-ans-apres-9782226498885/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782374485713",
@@ -1146,8 +747,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/le-fantome-de-versailles-9782374485713.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782258211063",
@@ -1161,23 +762,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/une-si-lente-agonie-9782258211063.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782809853179",
-    "titre": "56 jours",
-    "nb_sites": 1,
-    "meilleur_prix": 23.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 23.0,
-    "Mollat_url": "https://www.mollat.com/livres/3408570/catherine-ryan-howard-56-jours"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782385802288",
@@ -1191,39 +777,23 @@
     "Decitre_url": null,
     "Eyrolles_prix": 23.1,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/deux-vies-et-un-soleil-9782385802288/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782383992660",
     "titre": "Le Roi des cendres",
-    "nb_sites": 2,
+    "nb_sites": 1,
     "meilleur_prix": 23.5,
     "meilleurs_sites": [
-      "Decitre",
-      "Mollat"
+      "Decitre"
     ],
     "Decitre_prix": 23.5,
     "Decitre_url": "https://www.decitre.fr/livres/le-roi-des-cendres-9782383992660.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": 23.5,
-    "Mollat_url": "https://www.mollat.com/livres/3362371/s-a-cosby-le-roi-des-cendres"
-  },
-  {
-    "ean": "9782330215866",
-    "titre": "Tout le monde sait",
-    "nb_sites": 1,
-    "meilleur_prix": 23.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 23.5,
-    "Mollat_url": "https://www.mollat.com/livres/3406047/jordan-harper-tout-le-monde-sait"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782749182889",
@@ -1237,8 +807,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/l-heritage-du-vatican-9782749182889.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782383992370",
@@ -1252,68 +822,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/noir-comme-l-enfer-9782383992370.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782213726366",
-    "titre": "Une enquête de l'inspecteur Sean Duffy. Du sang sur les pierres",
-    "nb_sites": 1,
-    "meilleur_prix": 23.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 23.9,
-    "Mollat_url": "https://www.mollat.com/livres/3368220/adrian-mckinty-une-enquete-de-l-inspecteur-sean-duffy-du-sang-sur-les-pierres"
-  },
-  {
-    "ean": "9782080470775",
-    "titre": "Bleus, blancs, rouges. Vol. 3. 14 juillet",
-    "nb_sites": 1,
-    "meilleur_prix": 24.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 24.5,
-    "Mollat_url": "https://www.mollat.com/livres/3400233/benjamin-dierstein-bleus-blancs-rouges-vol-3-14-juillet"
-  },
-  {
-    "ean": "9782226501943",
-    "titre": "Cache-cache",
-    "nb_sites": 1,
-    "meilleur_prix": 24.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 24.9,
-    "Mollat_url": "https://www.mollat.com/livres/3354118/soren-sveistrup-cache-cache"
-  },
-  {
-    "ean": "9782351781548",
-    "titre": "La cabane dans les arbres",
-    "nb_sites": 1,
-    "meilleur_prix": 24.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 24.9,
-    "Mollat_url": "https://www.mollat.com/livres/3345106/vera-buck-la-cabane-dans-les-arbres"
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782383992189",
@@ -1327,8 +837,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/qui-est-coupable-9782383992189.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782265158849",
@@ -1342,8 +852,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/a-retardement-9782265157811.html?sku=9782265158849",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9791038154629",
@@ -1357,8 +867,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 24.99,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/agents-secrets-l-integrale-9791038154629/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9791035330378",
@@ -1372,8 +882,8 @@
     "Decitre_url": null,
     "Eyrolles_prix": 24.99,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-enquetes-de-charlotte-auduc-l-integrale-9791035330378/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782824626963",
@@ -1387,8 +897,8 @@
     "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-1-9782824626963.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782709668385",
@@ -1402,7 +912,7 @@
     "Decitre_url": null,
     "Eyrolles_prix": 25.9,
     "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-secret-des-secrets-9782709668385/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   }
 ]

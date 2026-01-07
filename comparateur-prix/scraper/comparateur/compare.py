@@ -4,7 +4,7 @@ from collections import defaultdict
 from pathlib import Path
 from difflib import SequenceMatcher
 
-SITES = ["Decitre", "Eyrolles", "Mollat"]
+SITES = ["Decitre", "Eyrolles", "Momox"]
 
 BASE_DIR = Path(__file__).resolve().parent
 PRODUCTS_PATH = BASE_DIR / "output" / "products.jl"
@@ -195,11 +195,11 @@ def main():
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(rows, f, indent=2, ensure_ascii=False)
 
-    print("✅ comparison_table.json généré")
-    print(f"📦 Total lignes: {len(rows)}")
-    print(f"📌 Comparables (>=2 sites): {sum(1 for r in rows if r['nb_sites'] >= 2)}")
-    print(f"🏆 Présents sur 3 sites: {sum(1 for r in rows if r['nb_sites'] == 3)}")
-    print("📊 Stats EAN par site:")
+    print("comparison_table.json généré")
+    print(f"Total lignes: {len(rows)}")
+    print(f"Comparables (>=2 sites): {sum(1 for r in rows if r['nb_sites'] >= 2)}")
+    print(f"Présents sur 3 sites: {sum(1 for r in rows if r['nb_sites'] == 3)}")
+    print("Stats EAN par site:")
     for s in SITES:
         print(f"  - {s}: {stats[s]['with_ean']}/{stats[s]['total']} items avec EAN")
 

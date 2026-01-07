@@ -24,7 +24,7 @@ services:
     networks:
       - mon_reseau        # Il se branche sur le même "câble" que la db
     # Cette commande lance le robot automatiquement
-    command: sh -c "sleep 10 && scrapy crawl produits_decitre ; scrapy crawl eyrolles ; scrapy crawl produits_mollat"
+    command: sh -c "sleep 10 && scrapy crawl produits_decitre ; scrapy crawl produits_eyrolles ; scrapy crawl produits_momox"
 
   # phpmyadmin
   phpmyadmin:

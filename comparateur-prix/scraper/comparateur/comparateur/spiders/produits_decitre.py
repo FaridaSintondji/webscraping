@@ -16,7 +16,8 @@ class ProduitsDecitreSpider(scrapy.Spider):
             item = ComparateurItem()
             #Récupération du lien du livre
             lien = book.xpath('./div[@class="product-card-infos__details"]/div[@class="product-card-infos__details__texts"]/a/@href').get()
-
+            #Utilisation de urljoin pour transformer le lien récupéré en un vrai lien qui marche
+            item['url'] = response.urljoin(lien)
             #On vérifie si le lien existe
             if lien:
                 yield response.follow(lien, 
