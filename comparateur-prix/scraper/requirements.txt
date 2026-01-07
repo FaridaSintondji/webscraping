@@ -1,2 +1,6 @@
 scrapy
 mysql-connector-python
+streamlit
+pandas
+lxml
+requests

@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(page_title="Comparateur de prix", layout="wide")
-st.title("📚 Comparateur de prix — Decitre vs Eyrolles vs Mollat")
+st.title("Comparateur de prix — Decitre vs Eyrolles vs Momox")
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_PATH = BASE_DIR / "output" / "comparison_table.json"
@@ -44,7 +44,7 @@ elif mode == "Uniquement présents sur 3 sites":
 if search:
     df_view = df_view[df_view["titre"].fillna("").str.contains(search, case=False, na=False)]
 
-# ✅ IMPORTANT : stop si aucun résultat
+# stop si aucun résultat
 if df_view.empty:
     st.warning("Aucun livre ne correspond à ces filtres (ex: aucun livre présent sur 3 sites).")
     st.stop()
@@ -55,13 +55,13 @@ df_view = df_view.sort_values(["meilleur_prix", "nb_sites", "titre"], ascending=
 # ---- Affichage tableau
 cols = [
     "ean", "titre",
-    "Decitre_prix", "Eyrolles_prix", "Mollat_prix",
+    "Decitre_prix", "Eyrolles_prix", "Momox_prix",
     "meilleur_prix", "meilleurs_sites", "nb_sites",
 ]
 st.dataframe(df_view[cols], use_container_width=True)
 
 st.divider()
-st.subheader("🧾 Détails & liens cliquables")
+st.subheader("Détails & liens cliquables")
 
 # Choix produit
 titres = df_view["titre"].fillna("(sans titre)").tolist()
@@ -80,7 +80,7 @@ if isinstance(best_sites, list) and len(best_sites) > 1:
 st.markdown(f"**Site(s) au prix minimal :** {', '.join(best_sites) if best_sites else '—'}")
 
 st.write("### Offres")
-sites = ["Decitre", "Eyrolles", "Mollat"]
+sites = ["Decitre", "Eyrolles", "Momox"]
 
 for site in sites:
     prix = row.get(f"{site}_prix")

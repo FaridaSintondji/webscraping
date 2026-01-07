@@ -47,8 +47,6 @@ class MysqlPipeline:
         )
         mycursor=mydb.cursor()
 
-    
-
         sql = "INSERT INTO Livre (titre, prix, url, site, ean) VALUES (%s, %s, %s, %s, %s)"
         val = (
             item.get('titre'),

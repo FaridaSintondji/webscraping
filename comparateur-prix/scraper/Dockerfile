@@ -6,7 +6,13 @@ WORKDIR /app
 
 # 3. On installe les librairies nécessaires
 # (On installe aussi gcc pour que mysql-connector fonctionne bien)
-RUN apt-get update && apt-get install -y default-libmysqlclient-dev build-essential
+RUN apt-get update && apt-get install -y \
+    default-libmysqlclient-dev \
+    build-essential \
+    libxml2-dev \
+    libxslt-dev \
+    && rm -rf /var/lib/apt/lists/*
+
 
 # 4. On copie la liste des besoins (requirements.txt) et on installe
 COPY requirements.txt .
@@ -16,6 +22,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 WORKDIR /app/comparateur
+
+# Pour Streamlit
+EXPOSE 8501
 
 # 6. La commande par défaut (sera remplacée par celle du docker-compose)
 CMD ["scrapy", "list"]

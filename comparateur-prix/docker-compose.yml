@@ -14,29 +14,53 @@ services:
       - mon_reseau
 
   # Scraper
+  # 1) Scraper : lance les spiders automatiquement
   scraper:
-    build: ./scraper  
+    build: ./scraper
     depends_on:
-      - db     
+      - db
     volumes:
       - ./scraper:/app
     working_dir: /app/comparateur
-    command: tail -f /dev/null          # Il attend que la BDD soit lancée avant de démarrer
+    command: >
+      sh -c "
+      rm -f output/.done &&
+      mkdir -p output &&
+      scrapy crawl produits_decitre &&
+      scrapy crawl produits_eyrolles &&
+      scrapy crawl produits_mollat &&
+      touch output/.done
+      "
     networks:
-      - mon_reseau        # Il se branche sur le même "câble" que la db
-    # Cette commande lance le robot automatiquement
-    #command: sh -c "scrapy crawl produits_decitre && scrapy crawl produits_eyrolles"
+      - mon_reseau
+    restart: "no"
+
+  # 2) Streamlit : attend la fin du scraping puis lance l'interface
+  streamlit:
+    build: ./scraper
+    container_name: comparateur_streamlit
+    depends_on:
+      - db
+    volumes:
+      - ./scraper:/app
+    working_dir: /app/comparateur
     ports:
       - "8501:8501"
-  # phpmyadmin
+    command: streamlit run app.py --server.address=0.0.0.0 --server.port=8501
+    networks:
+      - mon_reseau
+
+  # (Optionnel) phpMyAdmin si tu l'utilises
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin
     depends_on:
       - db
     ports:
-      - "8081:80"   
+      - "8081:80"
     environment:
-      PMA_HOST: db      
+      PMA_HOST: db
+      PMA_PORT: 3306
     networks:
       - mon_reseau
 

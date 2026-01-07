@@ -1,1408 +1,1372 @@
 [
   {
-    "ean": "9782702194225",
-    "titre": "La femme de chambre sauve Noël",
+    "ean": "9788822793850",
+    "titre": "Finché morte non ci separi",
     "nb_sites": 1,
-    "meilleur_prix": 7.9,
+    "meilleur_prix": 2.99,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 2.99,
+    "Momox_url": "https://www.momox-shop.fr/finche-morte-non-ci-separi-M08822793854.html"
+  },
+  {
+    "ean": "9782824629872",
+    "titre": "La femme de ménage se marie",
+    "nb_sites": 1,
+    "meilleur_prix": 2.99,
     "meilleurs_sites": [
       "Decitre"
     ],
-    "Decitre_prix": 7.9,
-    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-chambre-sauve-noel-9782702194225.html",
+    "Decitre_prix": 2.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-femme-de-menage-se-marie-9782824629872_9782824629872_9.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782376101635",
-    "titre": "La fée noire",
+    "ean": "9788822788351",
+    "titre": "Una di famiglia",
     "nb_sites": 1,
-    "meilleur_prix": 8.0,
+    "meilleur_prix": 2.99,
     "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 8.0,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-fee-noire-9782376101635/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782264088147",
-    "titre": "Rafael, derniers jours",
-    "nb_sites": 1,
-    "meilleur_prix": 8.3,
-    "meilleurs_sites": [
-      "Mollat"
+      "Momox"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": 8.3,
-    "Mollat_url": "https://www.mollat.com/livres/3410328/gregory-mcdonald-rafael-derniers-jours"
+    "Momox_prix": 2.99,
+    "Momox_url": "https://www.momox-shop.fr/una-di-famiglia-M08822788354.html"
+  },
+  {
+    "ean": "9782824629421",
+    "titre": "La femme de ménage",
+    "nb_sites": 3,
+    "meilleur_prix": 3.99,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 4.9,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-la-femme-de-menage-se-marie-9782824629421.html",
+    "Eyrolles_prix": 4.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-se-marie-9782824629421/",
+    "Momox_prix": 3.99,
+    "Momox_url": "https://www.momox-shop.fr/la-femme-de-menage-se-marie-pocket-book-M02824629428.html"
+  },
+  {
+    "ean": "9798333343567",
+    "titre": "The Widow's Husband's Secret Lie: A Satirical Novella",
+    "nb_sites": 1,
+    "meilleur_prix": 4.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 4.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-widow-s-husband-s-secret-lie-a-satirical-novella-taschenbuch-M0B0D9PLJ5KZ.html"
+  },
+  {
+    "ean": "9788822794192",
+    "titre": "Una di famiglia",
+    "nb_sites": 1,
+    "meilleur_prix": 5.69,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 5.69,
+    "Momox_url": "https://www.momox-shop.fr/una-di-famiglia-M08822794192.html"
+  },
+  {
+    "ean": "9782290391174",
+    "titre": "La femme de ménage Tome 1 - Occasion",
+    "nb_sites": 3,
+    "meilleur_prix": 6.45,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 6.45,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-1-9782290391174.html?sku=9782290391174_LO_2",
+    "Eyrolles_prix": 8.6,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-9782290391174/",
+    "Momox_prix": 7.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-la-femme-de-menage-taschenbuch-M02290391174.html"
+  },
+  {
+    "ean": "9782290415627",
+    "titre": "La psy - Occasion",
+    "nb_sites": 3,
+    "meilleur_prix": 6.45,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 6.45,
+    "Decitre_url": "https://www.decitre.fr/livres/la-psy-9782290415627.html?sku=9782290415627_LO_2",
+    "Eyrolles_prix": 8.6,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-psy-9782290415627/",
+    "Momox_prix": 7.49,
+    "Momox_url": "https://www.momox-shop.fr/la-psy-pocket-book-M02290415626.html"
+  },
+  {
+    "ean": "9782290391198",
+    "titre": "La femme de ménage Tome 2",
+    "nb_sites": 3,
+    "meilleur_prix": 7.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 8.6,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-2-les-secrets-de-la-femme-de-menage-9782290391198.html",
+    "Eyrolles_prix": 8.6,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-secrets-de-la-femme-de-menage-9782290391198/",
+    "Momox_prix": 7.49,
+    "Momox_url": "https://www.momox-shop.fr/les-secrets-de-la-femme-de-menage-pocket-book-M02290391190.html"
+  },
+  {
+    "ean": "9782824637167",
+    "titre": "La femme de ménage",
+    "nb_sites": 1,
+    "meilleur_prix": 8.49,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 8.49,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-femme-de-menage-9782824637167_9782824637167_9.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782824627946",
+    "titre": "La femme de ménage voit tout",
+    "nb_sites": 1,
+    "meilleur_prix": 8.49,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 8.49,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-femme-de-menage-voit-tout-9782824627946_9782824627946_9.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782824639512",
+    "titre": "La psy",
+    "nb_sites": 1,
+    "meilleur_prix": 8.49,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 8.49,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-psy-9782824639512_9782824639512_9.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782824638416",
+    "titre": "Les secrets de la femme de ménage",
+    "nb_sites": 1,
+    "meilleur_prix": 8.49,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 8.49,
+    "Decitre_url": "https://www.decitre.fr/ebooks/les-secrets-de-la-femme-de-menage-9782824638416_9782824638416_9.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9788822777232",
+    "titre": "Nella casa dei segreti (Nuova narrativa Newton)",
+    "nb_sites": 1,
+    "meilleur_prix": 8.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 8.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-nella-casa-dei-segreti-nuova-narrativa-newton-gebundene-ausgabe-M08822777239.html"
   },
   {
     "ean": "9782290415634",
     "titre": "La femme de ménage Tome 3",
-    "nb_sites": 1,
+    "nb_sites": 2,
     "meilleur_prix": 8.6,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 8.6,
-    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-3-la-femme-de-menage-voit-tout-9782290415634.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782253249917",
-    "titre": "Une enquête du commandant Gaspard Cloux Tome 1",
-    "nb_sites": 1,
-    "meilleur_prix": 8.7,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 8.7,
-    "Decitre_url": "https://www.decitre.fr/livres/une-enquete-du-commandant-gaspard-cloux-tome-1-morts-thematiques-9782253249917.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782290432815",
-    "titre": "Mens-moi à l'oreille",
-    "nb_sites": 2,
-    "meilleur_prix": 8.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 8.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/mens-moi-a-l-oreille-9782290432815/",
-    "Mollat_prix": 8.9,
-    "Mollat_url": "https://www.mollat.com/livres/3400547/amy-tintera-mens-moi-a-l-oreille"
-  },
-  {
-    "ean": "9782824627410",
-    "titre": "La maison de vacances",
-    "nb_sites": 1,
-    "meilleur_prix": 8.9,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 8.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-maison-de-vacances-9782824627410/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9791041420674",
-    "titre": "La trilogie blanche Tome 1",
-    "nb_sites": 1,
-    "meilleur_prix": 8.95,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 8.95,
-    "Decitre_url": "https://www.decitre.fr/livres/la-trilogie-blanche-tome-1-la-mort-en-blanc-9791041420674.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782266352574",
-    "titre": "Comme si de rien n'était",
-    "nb_sites": 1,
-    "meilleur_prix": 9.0,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 9.0,
-    "Decitre_url": "https://www.decitre.fr/livres/comme-si-de-rien-n-etait-9782266352574.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782266355377",
-    "titre": "Jusqu'à ce qu'elle se soumettent",
-    "nb_sites": 1,
-    "meilleur_prix": 9.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.0,
-    "Mollat_url": "https://www.mollat.com/livres/3410942/sandrine-lucchini-jusqu-a-ce-qu-elle-se-soumettent"
-  },
-  {
-    "ean": "9782264083494",
-    "titre": "Qui a tué le minotaure ?",
-    "nb_sites": 1,
-    "meilleur_prix": 9.2,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 9.2,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/qui-a-tue-le-minotaure--9782264083494/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782253249900",
-    "titre": "Une enquête du commandant Gaspard Cloux Tome 2",
-    "nb_sites": 1,
-    "meilleur_prix": 9.2,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 9.2,
-    "Decitre_url": "https://www.decitre.fr/livres/une-enquete-du-commandant-gaspard-cloux-tome-2-rien-qu-une-belle-perdue-9782253249900.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782266352970",
-    "titre": "Les mouettes - mission sahel",
-    "nb_sites": 1,
-    "meilleur_prix": 9.3,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 9.3,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-mouettes-mission-sahel-9782266352970/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782253254515",
-    "titre": "Blackleaf : fuir ou mourir",
-    "nb_sites": 1,
-    "meilleur_prix": 9.4,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.4,
-    "Mollat_url": "https://www.mollat.com/livres/3398768/isabelle-salle-blackleaf-fuir-ou-mourir"
-  },
-  {
-    "ean": "9782253253419",
-    "titre": "L'île : thriller",
-    "nb_sites": 1,
-    "meilleur_prix": 9.4,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.4,
-    "Mollat_url": "https://www.mollat.com/livres/3398770/jerome-loubry-l-ile-thriller"
-  },
-  {
-    "ean": "9782404081236",
-    "titre": "On achève bien les chevaux",
-    "nb_sites": 1,
-    "meilleur_prix": 9.4,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.4,
-    "Mollat_url": "https://www.mollat.com/livres/3401783/horace-mccoy-on-acheve-bien-les-chevaux"
-  },
-  {
-    "ean": "9782253254904",
-    "titre": "Si c'était toi",
-    "nb_sites": 1,
-    "meilleur_prix": 9.4,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 9.4,
-    "Decitre_url": "https://www.decitre.fr/livres/si-c-etait-toi-9782253254904.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782264067869",
-    "titre": "Le chien des Basqueville",
-    "nb_sites": 1,
-    "meilleur_prix": 9.5,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 9.5,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-chien-des-basqueville-9782264067869/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782073135407",
-    "titre": "Le dossier 1569",
-    "nb_sites": 1,
-    "meilleur_prix": 9.5,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 9.5,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-dossier-1569-9782073135407/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782264084972",
-    "titre": "Les deux visages du monde",
-    "nb_sites": 1,
-    "meilleur_prix": 9.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.5,
-    "Mollat_url": "https://www.mollat.com/livres/3359213/david-joy-les-deux-visages-du-monde"
-  },
-  {
-    "ean": "9782266348898",
-    "titre": "L'heure bleue",
-    "nb_sites": 1,
-    "meilleur_prix": 9.6,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 9.6,
-    "Decitre_url": "https://www.decitre.fr/livres/l-heure-bleue-9782266348898.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782266354936",
-    "titre": "Les quatre petits meurtres de Noël",
-    "nb_sites": 1,
-    "meilleur_prix": 9.6,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 9.6,
-    "Decitre_url": "https://www.decitre.fr/livres/les-quatre-petits-meurtres-de-noel-9782266354936.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782213733920",
-    "titre": "Brûlez tout",
-    "nb_sites": 2,
-    "meilleur_prix": 9.9,
     "meilleurs_sites": [
       "Decitre",
       "Eyrolles"
     ],
-    "Decitre_prix": 9.9,
-    "Decitre_url": "https://www.decitre.fr/livres/brulez-tout-9782213733920.html",
-    "Eyrolles_prix": 9.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/brulez-tout-9782213733920/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Decitre_prix": 8.6,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-3-la-femme-de-menage-voit-tout-9782290415634.html",
+    "Eyrolles_prix": 8.6,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-voit-tout-9782290415634/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782253254973",
-    "titre": "Dernière soirée",
-    "nb_sites": 2,
-    "meilleur_prix": 9.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 9.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/derniere-soiree-9782253254973/",
-    "Mollat_prix": 9.9,
-    "Mollat_url": "https://www.mollat.com/livres/3398771/lisa-gardner-derniere-soiree"
-  },
-  {
-    "ean": "9791041425365",
-    "titre": "Ils n'ont rien vu",
-    "nb_sites": 2,
-    "meilleur_prix": 9.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 9.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/ils-n-ont-rien-vu-9791041425365/",
-    "Mollat_prix": 9.9,
-    "Mollat_url": "https://www.mollat.com/livres/3404691/andrea-mara-ils-n-ont-rien-vu"
-  },
-  {
-    "ean": "9782253254546",
-    "titre": "Survivantes",
-    "nb_sites": 2,
-    "meilleur_prix": 9.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 9.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/survivantes-9782253254546/",
-    "Mollat_prix": 9.9,
-    "Mollat_url": "https://www.mollat.com/livres/3398577/cedric-sire-survivantes"
-  },
-  {
-    "ean": "9782404080765",
-    "titre": "La librairie des chats noirs",
+    "ean": "9782290422649",
+    "titre": "La Prof",
     "nb_sites": 1,
-    "meilleur_prix": 9.9,
+    "meilleur_prix": 8.8,
     "meilleurs_sites": [
       "Decitre"
     ],
-    "Decitre_prix": 9.9,
-    "Decitre_url": "https://www.decitre.fr/livres/la-librairie-des-chats-noirs-9782404080765.html",
+    "Decitre_prix": 8.8,
+    "Decitre_url": "https://www.decitre.fr/livres/la-prof-9782290422649.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782253254591",
-    "titre": "La saga du soleil noir",
+    "ean": "9783453429482",
+    "titre": "Die Kollegin – Wer hat sie so sehr gehasst, dass sie sterben musste?: Thriller – Der Nr. 1 Bestseller von der Autorin des Weltbestsellers »Wenn sie wüsste«. Mit Farbschnitt in limitierter Erstauflage",
     "nb_sites": 1,
-    "meilleur_prix": 9.9,
+    "meilleur_prix": 8.99,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 8.99,
+    "Momox_url": "https://www.momox-shop.fr/die-kollegin-wer-hat-sie-so-sehr-gehasst-dass-sie-sterben-musste-thriller-der-nr-1-bestseller-von-der-autorin-des-weltbestsellers-wenn-sie-wuesste-mit-farbschnitt-in-limitierter-erstauflage-perfect-M03453429486.html"
+  },
+  {
+    "ean": "9781464221347",
+    "titre": "The Coworker",
+    "nb_sites": 1,
+    "meilleur_prix": 9.48,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 9.48,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-coworker-taschenbuch-M01464221340.html"
+  },
+  {
+    "ean": "9781464223310",
+    "titre": "The Housemaid is Watching",
+    "nb_sites": 3,
+    "meilleur_prix": 9.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-housemaid-is-watching-9781464223310.html",
+    "Eyrolles_prix": 11.94,
+    "Eyrolles_url": "https://www.eyrolles.com/BD-Jeunesse/Livre/the-housemaid-is-watching-an-instant-sunday-times-bestseller-9781464223310/",
+    "Momox_prix": 9.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-housemaid-is-watching-an-instant-sunday-times-bestseller-the-housemaid-series-3-taschenbuch-M01464223319.html"
+  },
+  {
+    "ean": "9781464221408",
+    "titre": "The boyfriend",
+    "nb_sites": 3,
+    "meilleur_prix": 9.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-boyfriend-9781464221408.html",
+    "Eyrolles_prix": 10.74,
+    "Eyrolles_url": "https://www.eyrolles.com/BD-Jeunesse/Livre/the-boyfriend-an-instant-sunday-times-bestseller-from-the-author-of-the-housemaid-is-watching-9781464221408/",
+    "Momox_prix": 9.49,
+    "Momox_url": "https://www.momox-shop.fr/the-boyfriend-an-instant-sunday-times-bestseller-from-the-author-of-the-housemaid-is-watching-paperback-M01464221405.html"
+  },
+  {
+    "ean": "9781464221354",
+    "titre": "The Locked Door",
+    "nb_sites": 2,
+    "meilleur_prix": 9.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-locked-door-9781464221354.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 9.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-locked-door-taschenbuch-M01464221359.html"
+  },
+  {
+    "ean": "9798329347371",
+    "titre": "Dead Med",
+    "nb_sites": 1,
+    "meilleur_prix": 9.59,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 9.59,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-dead-med-taschenbuch-M0B0D7Z1CB5B.html"
+  },
+  {
+    "ean": "9781464228629",
+    "titre": "The Tenant",
+    "nb_sites": 3,
+    "meilleur_prix": 9.89,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-tenant-9781464228629.html",
+    "Eyrolles_prix": 11.94,
+    "Eyrolles_url": "https://www.eyrolles.com/BD-Jeunesse/Livre/the-tenant-a-dark-and-twist-laden-psychological-thriller-from-the-author-of-the-housemaid-books-9781464228629/",
+    "Momox_prix": 9.89,
+    "Momox_url": "https://www.momox-shop.fr/the-tenant-a-dark-twist-laden-psychological-thriller-from-the-author-of-the-housemaid-books-paperback-M01464228620.html"
+  },
+  {
+    "ean": "9781464228605",
+    "titre": "The Surrogate Mother",
+    "nb_sites": 3,
+    "meilleur_prix": 9.99,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-surrogate-mother-9781464228605.html",
+    "Eyrolles_prix": 11.94,
+    "Eyrolles_url": "https://www.eyrolles.com/BD-Jeunesse/Livre/the-surrogate-mother-9781464228605/",
+    "Momox_prix": 9.99,
+    "Momox_url": "https://www.momox-shop.fr/the-surrogate-mother-the-uk-no-1-bestseller-a-suspenseful-psychological-thriller-from-the-author-of-the-housemaid-books-M01464228604.html"
+  },
+  {
+    "ean": "9781464221378",
+    "titre": "The Teacher",
+    "nb_sites": 3,
+    "meilleur_prix": 9.99,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-teacher-9781464221378.html",
+    "Eyrolles_prix": 11.94,
+    "Eyrolles_url": "https://www.eyrolles.com/BD-Jeunesse/Livre/the-teacher-from-the-sunday-times-bestselling-author-of-the-housemaid-9781464221378/",
+    "Momox_prix": 9.99,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-teacher-from-the-sunday-times-bestselling-author-of-the-housemaid-taschenbuch-M01464221375.html"
+  },
+  {
+    "ean": "9781464228599",
+    "titre": "The Perfect Son",
+    "nb_sites": 2,
+    "meilleur_prix": 9.99,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 14.8,
+    "Decitre_url": "https://www.decitre.fr/livres/the-perfect-son-9781464228599.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 9.99,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-perfect-son-from-the-sunday-times-bestselling-author-of-the-housemaid-taschenbuch-M01464228590.html"
+  },
+  {
+    "ean": "9781464228636",
+    "titre": "The Crash",
+    "nb_sites": 3,
+    "meilleur_prix": 10.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-crash-9781464228636.html",
+    "Eyrolles_prix": 11.94,
+    "Eyrolles_url": "https://www.eyrolles.com/BD-Jeunesse/Livre/the-crash-the-1-sunday-times-bestseller-a-pulse-pounding-psychological-thriller-from-the-author-o-9781464228636/",
+    "Momox_prix": 10.49,
+    "Momox_url": "https://www.momox-shop.fr/the-crash-the-1-sunday-times-bestseller-a-pulse-pounding-psychological-thriller-from-the-author-of-the-housemaid-is-watching-paperback-M01464228639.html"
+  },
+  {
+    "ean": "9781464228575",
+    "titre": "Ward D",
+    "nb_sites": 3,
+    "meilleur_prix": 10.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/ward-d-9781464228575.html",
+    "Eyrolles_prix": 11.94,
+    "Eyrolles_url": "https://www.eyrolles.com/BD-Jeunesse/Livre/ward-d-a-taut-psychological-thriller-from-the-author-of-the-housemaid-is-watching-9781464228575/",
+    "Momox_prix": 10.49,
+    "Momox_url": "https://www.momox-shop.fr/ward-d-a-taut-psychological-thriller-from-the-author-of-the-housemaid-is-watching-paperback-M01464228574.html"
+  },
+  {
+    "ean": "9781464221392",
+    "titre": "One by One",
+    "nb_sites": 2,
+    "meilleur_prix": 10.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 12.5,
+    "Decitre_url": "https://www.decitre.fr/livres/one-by-one-9781464221392.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 10.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-one-by-one-from-the-sunday-times-bestselling-author-of-the-housemaid-taschenbuch-M01464221391.html"
+  },
+  {
+    "ean": "9783423221337",
+    "titre": "Eine von uns: Thriller | Twists & Turns & Tote: DER neue Thriller für Fans von Freida McFadden!",
+    "nb_sites": 1,
+    "meilleur_prix": 10.59,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 10.59,
+    "Momox_url": "https://www.momox-shop.fr/eine-von-uns-thriller-twists-turns-tote-der-neue-thriller-fuer-fans-von-freida-mcfadden-pocket-book-M0342322133X.html"
+  },
+  {
+    "ean": "9783453442153",
+    "titre": "Wenn sie wüsste: Thriller – Der SPIEGEL-Bestseller (The Housemaid, Band 1)",
+    "nb_sites": 1,
+    "meilleur_prix": 10.59,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 10.59,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-wenn-sie-wuesste-thriller-der-spiegel-bestseller-the-housemaid-band-1-taschenbuch-M03453442156.html"
+  },
+  {
+    "ean": "9781408728512",
+    "titre": "The housemaid",
+    "nb_sites": 3,
+    "meilleur_prix": 10.89,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 16.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-housemaid-9781408728512.html",
+    "Eyrolles_prix": 16.85,
+    "Eyrolles_url": "https://www.eyrolles.com/Loisirs/Livre/the-housemaid-tome-1--9781408728512/",
+    "Momox_prix": 10.89,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-housemaid-an-absolutely-addictive-psychological-thriller-with-a-jaw-dropping-twist-taschenbuch-M01408728516.html"
+  },
+  {
+    "ean": "9780349132600",
+    "titre": "The housemaid series. The housemaid's secret",
+    "nb_sites": 3,
+    "meilleur_prix": 10.99,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 16.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-housemaid-series-9780349132600.html",
+    "Eyrolles_prix": 16.85,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/the-housemaid-s-secret-the-housemaid-2--9780349132600/",
+    "Momox_prix": 10.99,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-housemaid-s-secret-taschenbuch-M00349132607.html"
+  },
+  {
+    "ean": "9782824626598",
+    "titre": "Le boyfriend",
+    "nb_sites": 1,
+    "meilleur_prix": 11.99,
     "meilleurs_sites": [
       "Decitre"
     ],
-    "Decitre_prix": 9.9,
-    "Decitre_url": "https://www.decitre.fr/livres/la-saga-du-soleil-noir-le-livre-des-merveilles-9782253254591.html",
+    "Decitre_prix": 11.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/le-boyfriend-9782824626598_9782824626598_9.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782264087508",
-    "titre": "Les enquêtes de Louis Fronsac. Sauver Marie Mancini",
-    "nb_sites": 1,
-    "meilleur_prix": 9.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 9.9,
-    "Mollat_url": "https://www.mollat.com/livres/3410037/jean-d-aillon-les-enquetes-de-louis-fronsac-sauver-marie-mancini"
-  },
-  {
-    "ean": "9782330215835",
-    "titre": "La poupée",
-    "nb_sites": 1,
-    "meilleur_prix": 10.2,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 10.2,
-    "Mollat_url": "https://www.mollat.com/livres/3406035/yrsa-sigurdardottir-la-poupee"
-  },
-  {
-    "ean": "9782266339186",
-    "titre": "Onze menteurs",
-    "nb_sites": 1,
-    "meilleur_prix": 10.3,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 10.3,
-    "Mollat_url": "https://www.mollat.com/livres/3410215/robert-gold-onze-menteurs"
-  },
-  {
-    "ean": "9782330215804",
-    "titre": "L'araignée",
-    "nb_sites": 1,
-    "meilleur_prix": 10.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 10.5,
-    "Mollat_url": "https://www.mollat.com/livres/3406048/lars-kepler-l-araignee"
-  },
-  {
-    "ean": "9782264085115",
-    "titre": "L'énigme de Turnglass",
-    "nb_sites": 1,
-    "meilleur_prix": 10.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 10.9,
-    "Decitre_url": "https://www.decitre.fr/livres/l-enigme-de-turnglass-9782264085115.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782367346540",
-    "titre": "Eiao",
-    "nb_sites": 1,
-    "meilleur_prix": 11.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 11.0,
-    "Mollat_url": "https://www.mollat.com/livres/3406922/marin-ledun-eiao"
-  },
-  {
-    "ean": "9782743669270",
-    "titre": "L'ombre portée",
-    "nb_sites": 1,
-    "meilleur_prix": 11.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 11.5,
-    "Mollat_url": "https://www.mollat.com/livres/3406648/hugues-pagan-l-ombre-portee"
-  },
-  {
-    "ean": "9782404081199",
-    "titre": "Les aventures de Lily Kintner. Ceux qu'on sauve",
-    "nb_sites": 1,
-    "meilleur_prix": 11.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 11.9,
-    "Mollat_url": "https://www.mollat.com/livres/3401784/peter-swanson-les-aventures-de-lily-kintner-ceux-qu-on-sauve"
-  },
-  {
-    "ean": "9782073117779",
-    "titre": "Bleus, blancs, rouges. Vol. 1",
-    "nb_sites": 1,
+    "ean": "9782290430767",
+    "titre": "La femme de ménage Tome 1 -  Edition collector",
+    "nb_sites": 2,
     "meilleur_prix": 12.0,
     "meilleurs_sites": [
-      "Mollat"
+      "Decitre",
+      "Eyrolles"
     ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 12.0,
-    "Mollat_url": "https://www.mollat.com/livres/3405187/benjamin-dierstein-bleus-blancs-rouges-vol-1"
+    "Decitre_prix": 12.0,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-1-9782290430767.html",
+    "Eyrolles_prix": 12.0,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-edition-collector-9782290430767/",
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782290430774",
+    "titre": "La femme de ménage Tome 2",
+    "nb_sites": 2,
+    "meilleur_prix": 12.0,
+    "meilleurs_sites": [
+      "Decitre",
+      "Eyrolles"
+    ],
+    "Decitre_prix": 12.0,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-2-les-secrets-de-la-femme-de-menage-9782290391198.html?sku=9782290430774",
+    "Eyrolles_prix": 12.0,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-secrets-de-la-femme-de-menage-edition-collector-9782290430774/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
     "ean": "9782290430781",
     "titre": "La femme de ménage Tome 3",
-    "nb_sites": 1,
+    "nb_sites": 2,
     "meilleur_prix": 12.0,
     "meilleurs_sites": [
-      "Decitre"
+      "Decitre",
+      "Eyrolles"
     ],
     "Decitre_prix": 12.0,
     "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-3-la-femme-de-menage-voit-tout-9782290415634.html?sku=9782290430781",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Eyrolles_prix": 12.0,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-voit-tout-edition-collector-9782290430781/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782226491015",
-    "titre": "Hamish Macbeth Tome 27",
+    "ean": "9783453471900",
+    "titre": "Wenn sie wüsste: Thriller – Der internationale Bestseller: Das Spannungsphänomen des Jahres - (The Housemaid, Band 1)",
     "nb_sites": 1,
-    "meilleur_prix": 14.9,
+    "meilleur_prix": 12.99,
     "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 14.9,
-    "Decitre_url": "https://www.decitre.fr/livres/hamish-macbeth-tome-27-meurtres-en-cascade-9782226491015.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782226491022",
-    "titre": "Hamish Macbeth Tome 28",
-    "nb_sites": 1,
-    "meilleur_prix": 14.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 14.9,
-    "Decitre_url": "https://www.decitre.fr/livres/hamish-macbeth-tome-28-coup-de-crayon-9782226491022.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782266361071",
-    "titre": "J'aime votre peur",
-    "nb_sites": 1,
-    "meilleur_prix": 14.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 14.9,
-    "Decitre_url": "https://www.decitre.fr/livres/j-aime-votre-peur-9782266361071.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782290416990",
-    "titre": "Le Chat du bibliothécaire Tome 10",
-    "nb_sites": 1,
-    "meilleur_prix": 14.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 14.9,
-    "Decitre_url": "https://www.decitre.fr/livres/le-chat-du-bibliothecaire-tome-10-le-noel-de-charlie-harris-9782290416990.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782374489797",
-    "titre": "Les enquêtes de l'inspecteur Higgins. Vol. 59. L'alchimiste de Lyon",
-    "nb_sites": 1,
-    "meilleur_prix": 14.9,
-    "meilleurs_sites": [
-      "Mollat"
+      "Momox"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": 14.9,
-    "Mollat_url": "https://www.mollat.com/livres/3410944/christian-jacq-les-enquetes-de-l-inspecteur-higgins-vol-59-l-alchimiste-de-lyon"
+    "Momox_prix": 12.99,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-wenn-sie-wuesste-thriller-der-internationale-bestseller-das-spannungsphaenomen-des-jahres-the-housemaid-band-1-broschiert-M03453471903.html"
   },
   {
-    "ean": "9791035330385",
-    "titre": "Les enquêtes de marika farkas - l'intégrale",
+    "ean": "9783453442160",
+    "titre": "Sie wird dich finden: Thriller – Der packende Höhepunkt der Bestseller-Reihe, die schlaflose Nächte garantiert - Mit farbig gestaltetem Buchschnitt - ... Erstauflage der gedruckten Ausgabe",
+    "nb_sites": 1,
+    "meilleur_prix": 13.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 13.49,
+    "Momox_url": "https://www.momox-shop.fr/sie-wird-dich-finden-thriller-der-packende-hoehepunkt-der-bestseller-reihe-die-schlaflose-naechte-garantiert-mit-farbig-gestaltetem-buchschnitt-erstauflage-der-gedruckten-ausgabe-paperback-M03453442164.html"
+  },
+  {
+    "ean": "9781464266485",
+    "titre": "Dear Debbie",
+    "nb_sites": 1,
+    "meilleur_prix": 13.5,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 13.5,
+    "Decitre_url": "https://www.decitre.fr/livres/dear-debbie-9781464266485.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9781464268533",
+    "titre": "Want to Know a Secret?",
+    "nb_sites": 1,
+    "meilleur_prix": 13.5,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 13.5,
+    "Decitre_url": "https://www.decitre.fr/livres/want-to-know-a-secret-9781464268533.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9781464227318",
+    "titre": "The Tenant",
+    "nb_sites": 2,
+    "meilleur_prix": 13.69,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 17.0,
+    "Decitre_url": "https://www.decitre.fr/livres/the-tenant-9781464227318.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 13.69,
+    "Momox_url": "https://www.momox-shop.fr/the-tenant-paperback-M01464227314.html"
+  },
+  {
+    "ean": "9783453443488",
+    "titre": "Die Kollegin – Wer hat sie so sehr gehasst, dass sie sterben musste?: Thriller – Der neue Thriller der Autorin des Weltbestsellers »Wenn sie wüsste« -",
+    "nb_sites": 1,
+    "meilleur_prix": 13.79,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 13.79,
+    "Momox_url": "https://www.momox-shop.fr/die-kollegin-wer-hat-sie-so-sehr-gehasst-dass-sie-sterben-musste-thriller-der-neue-thriller-der-autorin-des-weltbestsellers-wenn-sie-wuesste-perfect-M03453443489.html"
+  },
+  {
+    "ean": "9783365009857",
+    "titre": "Don't Let Her Stay: Wenn das Böse Einzug hält | Fesselnder Psychothriller mit unvorhersehbarem Plottwist | Für Fans von Freida McFadden und Claire McGowan",
+    "nb_sites": 1,
+    "meilleur_prix": 13.79,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 13.79,
+    "Momox_url": "https://www.momox-shop.fr/don-t-let-her-stay-wenn-das-boese-einzug-haelt-fesselnder-psychothriller-mit-unvorhersehbarem-plottwist-fuer-fans-von-freida-mcfadden-und-claire-mcgowan-perfect-M0336500985X.html"
+  },
+  {
+    "ean": "9783492065641",
+    "titre": "Eisnebel: Thriller | Mit limitiertem Farbschnitt | »Randvoll mit Spannung!« FREIDA McFADDEN",
+    "nb_sites": 1,
+    "meilleur_prix": 13.79,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 13.79,
+    "Momox_url": "https://www.momox-shop.fr/marshall-kate-alice-eisnebel-thriller-mit-limitiertem-farbschnitt-randvoll-mit-spannung-freida-mcfadden-perfect-M03492065643.html"
+  },
+  {
+    "ean": "9781464227325",
+    "titre": "The Crash",
+    "nb_sites": 1,
+    "meilleur_prix": 13.79,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 13.79,
+    "Momox_url": "https://www.momox-shop.fr/the-crash-paperback-M01464227322.html"
+  },
+  {
+    "ean": "9782824627571",
+    "titre": "La femme de ménage Tome 3",
+    "nb_sites": 3,
+    "meilleur_prix": 14.3,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 14.3,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-3-la-femme-de-menage-voit-tout-9782824627571.html?sku=9782824627571_LO_2",
+    "Eyrolles_prix": 22.0,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-voit-tout-9782824627571/",
+    "Momox_prix": 15.99,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-la-femme-de-menage-voit-tout-taschenbuch-M02824627573.html"
+  },
+  {
+    "ean": "9781728296203",
+    "titre": "The Coworker",
+    "nb_sites": 1,
+    "meilleur_prix": 14.89,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 14.89,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-coworker-taschenbuch-M0172829620X.html"
+  },
+  {
+    "ean": "9781728296197",
+    "titre": "One by One",
     "nb_sites": 1,
     "meilleur_prix": 14.99,
     "meilleurs_sites": [
-      "Eyrolles"
+      "Momox"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
-    "Eyrolles_prix": 14.99,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-enquetes-de-marika-farkas-l-integrale-9791035330385/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 14.99,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-one-by-one-taschenbuch-M01728296196.html"
   },
   {
-    "ean": "9782351783672",
-    "titre": "Si les chats pouvaient parler",
+    "ean": "9781464228582",
+    "titre": "Do Not Disturb",
     "nb_sites": 1,
-    "meilleur_prix": 14.99,
+    "meilleur_prix": 15.4,
     "meilleurs_sites": [
       "Decitre"
     ],
-    "Decitre_prix": 14.99,
-    "Decitre_url": "https://www.decitre.fr/livres/si-les-chats-pouvaient-parler-9782351783672.html",
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/do-not-disturb-9781464228582.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782385532185",
-    "titre": "Killing me softly",
+    "ean": "9781464221361",
+    "titre": "Never Lie",
     "nb_sites": 1,
-    "meilleur_prix": 15.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 15.9,
-    "Mollat_url": "https://www.mollat.com/livres/3406646/jacky-schwartzmann-killing-me-softly"
-  },
-  {
-    "ean": "9782749181486",
-    "titre": "Les enquêtes d'Hannah Swensen Tome 14",
-    "nb_sites": 1,
-    "meilleur_prix": 15.9,
+    "meilleur_prix": 15.4,
     "meilleurs_sites": [
       "Decitre"
     ],
-    "Decitre_prix": 15.9,
-    "Decitre_url": "https://www.decitre.fr/livres/les-enquetes-d-hannah-swensen-tome-14-meurtres-et-roule-a-la-cannelle-9782749181486.html",
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/never-lie-9781464221361.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782824626390",
-    "titre": "Petits crimes et jardin secret - Tome 3",
+    "ean": "9781464228612",
+    "titre": "The Intruder",
     "nb_sites": 1,
-    "meilleur_prix": 15.9,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 15.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/petits-crimes-et-jardin-secret-tome-3-9782824626390/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782385756116",
-    "titre": "Rémy d'aversa - l'intégrale",
-    "nb_sites": 1,
-    "meilleur_prix": 16.99,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 16.99,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/remy-d-aversa-l-integrale-9782385756116/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9791095023746",
-    "titre": "Quelqu'un à qui tendre la main",
-    "nb_sites": 1,
-    "meilleur_prix": 18.0,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 18.0,
-    "Eyrolles_url": "https://www.eyrolles.com/Loisirs/Livre/quelqu-un-a-qui-tendre-la-main-9791095023746/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782264085788",
-    "titre": "Une citadelle en enfer",
-    "nb_sites": 1,
-    "meilleur_prix": 18.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 18.5,
-    "Mollat_url": "https://www.mollat.com/livres/3346611/francois-henri-soulie-une-citadelle-en-enfer"
-  },
-  {
-    "ean": "9782494202290",
-    "titre": "L'été où j'ai disparu",
-    "nb_sites": 1,
-    "meilleur_prix": 19.0,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 19.0,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/l-ete-ou-j-ai-disparu-9782494202290/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782393433542",
-    "titre": "Sécher tes larmes. Une enquête d’Emma Fauvel",
-    "nb_sites": 1,
-    "meilleur_prix": 19.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 19.9,
-    "Mollat_url": "https://www.mollat.com/livres/3413976/lepage-mei-secher-tes-larmes-une-enquete-d-emma-fauvel"
-  },
-  {
-    "ean": "9782381227849",
-    "titre": "Ne le laissez pas entrer",
-    "nb_sites": 1,
-    "meilleur_prix": 19.95,
+    "meilleur_prix": 15.4,
     "meilleurs_sites": [
       "Decitre"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-intruder-9781464228612.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9781464221385",
+    "titre": "The inmate",
+    "nb_sites": 1,
+    "meilleur_prix": 15.4,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 15.4,
+    "Decitre_url": "https://www.decitre.fr/livres/the-inmate-9781464221385.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9781728296227",
+    "titre": "The Boyfriend",
+    "nb_sites": 1,
+    "meilleur_prix": 15.69,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 15.69,
+    "Momox_url": "https://www.momox-shop.fr/the-boyfriend-paperback-M01728296226.html"
+  },
+  {
+    "ean": "9783453274662",
+    "titre": "Sie kann dich hören",
+    "nb_sites": 1,
+    "meilleur_prix": 16.0,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 16.0,
+    "Decitre_url": "https://www.decitre.fr/livres/sie-kann-dich-horen-9783453274662.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782824621456",
+    "titre": "La femme de ménage Tome 1",
+    "nb_sites": 3,
+    "meilleur_prix": 16.49,
+    "meilleurs_sites": [
+      "Momox"
     ],
     "Decitre_prix": 19.95,
-    "Decitre_url": "https://www.decitre.fr/livres/ne-le-laissez-pas-entrer-9782381227849.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-1-9782290391174.html?sku=9782824621456",
+    "Eyrolles_prix": 19.95,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-9782824621456/",
+    "Momox_prix": 16.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-la-femme-de-menage-taschenbuch-M02824621451.html"
   },
   {
-    "ean": "9782073074928",
-    "titre": "L'autre enquête",
-    "nb_sites": 2,
-    "meilleur_prix": 20.0,
+    "ean": "9782824638874",
+    "titre": "La psy",
+    "nb_sites": 3,
+    "meilleur_prix": 16.49,
     "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 20.0,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/l-autre-enquete-9782073074928/",
-    "Mollat_prix": 20.0,
-    "Mollat_url": "https://www.mollat.com/livres/3405189/jorn-lier-horst-une-enquete-de-william-wisting-l-autre-enquete"
-  },
-  {
-    "ean": "9782073105004",
-    "titre": "La mort malgré lui",
-    "nb_sites": 1,
-    "meilleur_prix": 20.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 20.0,
-    "Mollat_url": "https://www.mollat.com/livres/3406094/armelle-herisson-la-mort-malgre-lui"
-  },
-  {
-    "ean": "9782413088547",
-    "titre": "Le village",
-    "nb_sites": 1,
-    "meilleur_prix": 20.5,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 20.5,
-    "Decitre_url": "https://www.decitre.fr/livres/le-village-9782413088547.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782702452875",
-    "titre": "Le Bâtiment",
-    "nb_sites": 1,
-    "meilleur_prix": 20.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 20.9,
-    "Mollat_url": "https://www.mollat.com/livres/3399845/mehdi-bayad-le-batiment"
-  },
-  {
-    "ean": "9782226502810",
-    "titre": "Seules les rivières",
-    "nb_sites": 1,
-    "meilleur_prix": 20.9,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 20.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/seules-les-rivieres-9782226502810/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782749960883",
-    "titre": "La poussière des morts",
-    "nb_sites": 1,
-    "meilleur_prix": 20.95,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 20.95,
-    "Mollat_url": "https://www.mollat.com/livres/3392204/cecile-cabanac-la-poussiere-des-morts"
-  },
-  {
-    "ean": "9782383992196",
-    "titre": "Toutes les fêtes de Noël commencent par un  meurtre",
-    "nb_sites": 1,
-    "meilleur_prix": 21.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 21.0,
-    "Mollat_url": "https://www.mollat.com/livres/3362260/benjamin-stevenson-toutes-les-fetes-de-noel-commencent-par-un-meurtre"
-  },
-  {
-    "ean": "9782072796432",
-    "titre": "Ultima",
-    "nb_sites": 1,
-    "meilleur_prix": 21.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 21.0,
-    "Mollat_url": "https://www.mollat.com/livres/3368602/ingrid-astier-ultima"
-  },
-  {
-    "ean": "9782283042069",
-    "titre": "Le crime de Le Floch. Les enquêtes de Nicolas Le Floch, commissaire au Châtelet",
-    "nb_sites": 1,
-    "meilleur_prix": 21.5,
-    "meilleurs_sites": [
-      "Decitre"
+      "Momox"
     ],
     "Decitre_prix": 21.5,
-    "Decitre_url": "https://www.decitre.fr/livres/le-crime-de-le-floch-9782283042069.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Decitre_url": "https://www.decitre.fr/livres/la-psy-9782290415627.html?sku=9782824638874",
+    "Eyrolles_prix": 21.5,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-psy-9782824638874/",
+    "Momox_prix": 16.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-la-psy-taschenbuch-M02824638877.html"
   },
   {
-    "ean": "9782226504340",
-    "titre": "Je suis né du diable",
+    "ean": "9781728296210",
+    "titre": "The Teacher",
     "nb_sites": 2,
-    "meilleur_prix": 21.9,
+    "meilleur_prix": 16.49,
     "meilleurs_sites": [
-      "Decitre",
-      "Mollat"
+      "Momox"
     ],
-    "Decitre_prix": 21.9,
-    "Decitre_url": "https://www.decitre.fr/livres/je-suis-ne-du-diable-9782226504340.html",
+    "Decitre_prix": 17.0,
+    "Decitre_url": "https://www.decitre.fr/livres/the-teacher-9781728296210.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": 21.9,
-    "Mollat_url": "https://www.mollat.com/livres/3361135/jean-christophe-grange-je-suis-ne-du-diable"
+    "Momox_prix": 16.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-teacher-taschenbuch-M01728296218.html"
   },
   {
-    "ean": "9782702190753",
-    "titre": "Le garçon éternel",
-    "nb_sites": 2,
-    "meilleur_prix": 21.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 21.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-garcon-eternel-9782702190753/",
-    "Mollat_prix": 21.9,
-    "Mollat_url": "https://www.mollat.com/livres/3398050/jerome-loubry-le-garcon-eternel"
-  },
-  {
-    "ean": "9782365699129",
-    "titre": "La menteuse",
+    "ean": "9783453429499",
+    "titre": "Der Lehrer – Will er dir helfen oder will er deinen Tod?: Thriller - Von der Autorin des Weltbestsellers »Wenn sie wüsste«. Mit Farbschnitt in limitierter Erstauflage",
     "nb_sites": 1,
-    "meilleur_prix": 21.9,
+    "meilleur_prix": 16.49,
     "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 21.9,
-    "Decitre_url": "https://www.decitre.fr/livres/la-menteuse-9782365699129.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782265159686",
-    "titre": "Love, mom",
-    "nb_sites": 1,
-    "meilleur_prix": 21.95,
-    "meilleurs_sites": [
-      "Mollat"
+      "Momox"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": 21.95,
-    "Mollat_url": "https://www.mollat.com/livres/3410828/iliana-xander-love-mom"
+    "Momox_prix": 16.49,
+    "Momox_url": "https://www.momox-shop.fr/der-lehrer-will-er-dir-helfen-oder-will-er-deinen-tod-thriller-von-der-autorin-des-weltbestsellers-wenn-sie-wuesste-mit-farbschnitt-in-limitierter-erstauflage-paperback-M03453429494.html"
   },
   {
-    "ean": "9782824626437",
-    "titre": "Les disparues",
-    "nb_sites": 2,
-    "meilleur_prix": 22.0,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 22.0,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-disparues-9782824626437/",
-    "Mollat_prix": 22.0,
-    "Mollat_url": "https://www.mollat.com/livres/3404690/jessie-garcia-les-disparues"
-  },
-  {
-    "ean": "9782330215880",
-    "titre": "Cathédrale : histoire des vivants, des morts, et de ceux qui ne les ont pas connus",
+    "ean": "9788491294283",
+    "titre": "La asistenta: El adictivo thriller viral que está arrasando internacionalmente (SUMA, Band 1)",
     "nb_sites": 1,
-    "meilleur_prix": 22.0,
+    "meilleur_prix": 16.49,
     "meilleurs_sites": [
-      "Mollat"
+      "Momox"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": 22.0,
-    "Mollat_url": "https://www.mollat.com/livres/3406044/tarik-noui-cathedrale-histoire-des-vivants-des-morts-et-de-ceux-qui-ne-les-ont-pas-connus"
+    "Momox_prix": 16.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-la-asistenta-el-adictivo-thriller-viral-que-esta-arrasando-internacionalmente-suma-band-1-taschenbuch-M08491294287.html"
   },
   {
-    "ean": "9782824626420",
-    "titre": "La chute",
+    "ean": "9780349132617",
+    "titre": "The Housemaid's Secret",
     "nb_sites": 1,
-    "meilleur_prix": 22.0,
+    "meilleur_prix": 16.89,
     "meilleurs_sites": [
-      "Eyrolles"
+      "Momox"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
-    "Eyrolles_prix": 22.0,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-chute-9782824626420/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 16.89,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-housemaid-s-secret-taschenbuch-M00349132615.html"
   },
   {
-    "ean": "9791040121718",
-    "titre": "La trilogie blanche Tome 2",
+    "ean": "9783453443037",
+    "titre": "Der Freund – Ist er dein Traumpartner oder dein Killer?: Thriller - Von der Autorin des Weltbestsellers »Wenn sie wüsste«. Mit Farbschnitt in limitierter Erstauflage",
     "nb_sites": 1,
-    "meilleur_prix": 22.0,
+    "meilleur_prix": 17.0,
     "meilleurs_sites": [
-      "Decitre"
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 17.0,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-der-freund-ist-er-dein-traumpartner-oder-dein-killer-thriller-von-der-autorin-des-weltbestsellers-wenn-sie-wuesste-mit-farbschnitt-in-limitierter-erstauflage-perfect-M03453443039.html"
+  },
+  {
+    "ean": "9782824622743",
+    "titre": "La femme de ménage Tome 2",
+    "nb_sites": 3,
+    "meilleur_prix": 17.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 20.95,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-2-les-secrets-de-la-femme-de-menage-9782290391198.html?sku=9782824622743",
+    "Eyrolles_prix": 20.95,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-secrets-de-la-femme-de-menage-9782824622743/",
+    "Momox_prix": 17.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-les-secrets-de-la-femme-de-menage-taschenbuch-M02824622741.html"
+  },
+  {
+    "ean": "9782824629094",
+    "titre": "La prof",
+    "nb_sites": 3,
+    "meilleur_prix": 17.49,
+    "meilleurs_sites": [
+      "Momox"
     ],
     "Decitre_prix": 22.0,
-    "Decitre_url": "https://www.decitre.fr/livres/la-trilogie-blanche-tome-2-un-calme-blanc-9791040121718.html",
+    "Decitre_url": "https://www.decitre.fr/livres/la-prof-9782290422649.html?sku=9782824629094",
+    "Eyrolles_prix": 22.0,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-prof-9782824629094/",
+    "Momox_prix": 17.49,
+    "Momox_url": "https://www.momox-shop.fr/la-prof-paperback-M02824629096.html"
+  },
+  {
+    "ean": "9788410257184",
+    "titre": "La asistenta te vigila (La asistenta 3) (SUMA, Band 3)",
+    "nb_sites": 1,
+    "meilleur_prix": 17.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": 17.49,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-la-asistenta-te-vigila-la-asistenta-3-suma-band-3-taschenbuch-M08410257181.html"
+  },
+  {
+    "ean": "9788410257818",
+    "titre": "Nunca mientas",
+    "nb_sites": 1,
+    "meilleur_prix": 17.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 17.49,
+    "Momox_url": "https://www.momox-shop.fr/nunca-mientas-M08410257815.html"
+  },
+  {
+    "ean": "9781538742570",
+    "titre": "The Housemaid",
+    "nb_sites": 2,
+    "meilleur_prix": 18.0,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 18.0,
+    "Decitre_url": "https://www.decitre.fr/livres/the-housemaid-9781538742570.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 18.99,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-the-housemaid-taschenbuch-M01538742578.html"
   },
   {
     "ean": "9782824627151",
     "titre": "Le boyfriend",
+    "nb_sites": 3,
+    "meilleur_prix": 18.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 22.0,
+    "Decitre_url": "https://www.decitre.fr/livres/le-boyfriend-9782824627151.html",
+    "Eyrolles_prix": 22.0,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-boyfriend-9782824627151/",
+    "Momox_prix": 18.49,
+    "Momox_url": "https://www.momox-shop.fr/le-boyfriend-paperback-M02824627158.html"
+  },
+  {
+    "ean": "9783453442764",
+    "titre": "Sie wird dich finden: Thriller – Der packende Höhepunkt der Bestseller-Reihe, die schlaflose Nächte garantiert (The Housemaid, Band 3)",
+    "nb_sites": 1,
+    "meilleur_prix": 18.49,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 18.49,
+    "Momox_url": "https://www.momox-shop.fr/sie-wird-dich-finden-thriller-der-packende-hoehepunkt-der-bestseller-reihe-die-schlaflose-naechte-garantiert-the-housemaid-band-3-perfect-M03453442768.html"
+  },
+  {
+    "ean": "9788419835734",
+    "titre": "El secreto de la asistenta (La asistenta 2) (SUMA, Band 2)",
+    "nb_sites": 1,
+    "meilleur_prix": 18.59,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 18.59,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-el-secreto-de-la-asistenta-la-asistenta-2-suma-band-2-taschenbuch-M08419835730.html"
+  },
+  {
+    "ean": "9791036641282",
+    "titre": "La femme de ménage Tome 1 -  avec 1 CD audio MP3",
+    "nb_sites": 3,
+    "meilleur_prix": 18.79,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 22.9,
+    "Decitre_url": "https://www.decitre.fr/livre-audio/la-femme-de-menage-tome-1-9791036641282.html",
+    "Eyrolles_prix": 22.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-tome-1-9791036641282/",
+    "Momox_prix": 18.79,
+    "Momox_url": "https://www.momox-shop.fr/la-femme-de-menage-tome-1-audiocd-M0B0DXTTKBRB.html"
+  },
+  {
+    "ean": "9791036641343",
+    "titre": "La femme de ménage Tome 2",
+    "nb_sites": 3,
+    "meilleur_prix": 18.79,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 22.9,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-2-les-secrets-de-la-femme-de-menage-9782290391198.html?sku=9791036641343",
+    "Eyrolles_prix": 22.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-secrets-de-la-femme-de-menage-tome-2-9791036641343/",
+    "Momox_prix": 18.79,
+    "Momox_url": "https://www.momox-shop.fr/les-secrets-de-la-femme-de-menage-tome-2-M0B0DXTJLSTT.html"
+  },
+  {
+    "ean": "9788410257511",
+    "titre": "El recluso (SUMA)",
+    "nb_sites": 1,
+    "meilleur_prix": 18.89,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 18.89,
+    "Momox_url": "https://www.momox-shop.fr/el-recluso-suma-paperback-M08410257513.html"
+  },
+  {
+    "ean": "9788491299707",
+    "titre": "La profesora (SUMA)",
+    "nb_sites": 1,
+    "meilleur_prix": 18.89,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 18.89,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-la-profesora-suma-M0849129970X.html"
+  },
+  {
+    "ean": "9791387653002",
+    "titre": "L’assistenta et vigila (L'assistenta 3) (Narrativa, Band 3)",
+    "nb_sites": 1,
+    "meilleur_prix": 18.89,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": null,
+    "Decitre_url": null,
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 18.89,
+    "Momox_url": "https://www.momox-shop.fr/l-assistenta-et-vigila-l-assistenta-3-narrativa-band-3-paperback-M0B0DZP1S673.html"
+  },
+  {
+    "ean": "9791036643354",
+    "titre": "La femme de ménage se marie - Tome 4. Une nouvelle de Freida McFadden",
+    "nb_sites": 1,
+    "meilleur_prix": 19.99,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 19.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-femme-de-menage-se-marie-tome-4-9791036643354_9791036643354_10006.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782824626963",
+    "titre": "La femme de ménage Tome 1 -  Edition collector",
+    "nb_sites": 3,
+    "meilleur_prix": 20.99,
+    "meilleurs_sites": [
+      "Momox"
+    ],
+    "Decitre_prix": 25.9,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-1-9782824626963.html",
+    "Eyrolles_prix": 25.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-collector-9782824626963/",
+    "Momox_prix": 20.99,
+    "Momox_url": "https://www.momox-shop.fr/freida-mcfadden-la-femme-de-menage-collector-hardcover-M02824626968.html"
+  },
+  {
+    "ean": "9791036631573",
+    "titre": "La femme de ménage - Tome 1",
+    "nb_sites": 1,
+    "meilleur_prix": 21.99,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 21.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-femme-de-menage-tome-1-9791036631573_9791036631573_10006.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9791036639098",
+    "titre": "La psy. Elle connaît tous vos secrets, découvrez les siens ...",
+    "nb_sites": 1,
+    "meilleur_prix": 21.99,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 21.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-psy-9791036639098_9791036639098_10006.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9791036635885",
+    "titre": "Les Secrets de la femme de ménage - Tome 2 - Prix Babelio 2024 Polar et Thriller",
+    "nb_sites": 1,
+    "meilleur_prix": 21.99,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 21.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/les-secrets-de-la-femme-de-menage-tome-2-prix-babelio-2024-polar-et-thriller-9791036635885_9791036635885_10006.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9782824626338",
+    "titre": "La locataire",
     "nb_sites": 1,
     "meilleur_prix": 22.0,
     "meilleurs_sites": [
       "Decitre"
     ],
     "Decitre_prix": 22.0,
-    "Decitre_url": "https://www.decitre.fr/livres/le-boyfriend-9782824627151.html",
+    "Decitre_url": "https://www.decitre.fr/livres/la-locataire-9782824626338.html",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9791033922834",
-    "titre": "Sacrifié",
+    "ean": "9786555655063",
+    "titre": "A empregada. Bem-vinda a familia (Em Portugues do Brasil)",
     "nb_sites": 1,
-    "meilleur_prix": 22.5,
+    "meilleur_prix": 22.49,
     "meilleurs_sites": [
-      "Mollat"
+      "Momox"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": 22.5,
-    "Mollat_url": "https://www.mollat.com/livres/3400546/henrik-fexeus-sacrifie"
+    "Momox_prix": 22.49,
+    "Momox_url": "https://www.momox-shop.fr/a-empregada-bem-vinda-a-familia-em-portugues-do-brasil-paperback-M06555655062.html"
   },
   {
-    "ean": "9782226498885",
-    "titre": "Douze ans après",
+    "ean": "9791036645945",
+    "titre": "La psy",
+    "nb_sites": 1,
+    "meilleur_prix": 22.9,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 22.9,
+    "Decitre_url": "https://www.decitre.fr/livres/la-psy-9782290415627.html?sku=9791036645945",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9791036641138",
+    "titre": "La Prof",
+    "nb_sites": 1,
+    "meilleur_prix": 24.99,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 24.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-prof-9782824629766_9782824629766_9.html?sku=9791036641138_9791036641138_10006",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9791036639067",
+    "titre": "La femme de ménage voit tout - Tome 3",
+    "nb_sites": 1,
+    "meilleur_prix": 24.99,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 24.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-femme-de-menage-voit-tout-tome-3-9791036639067_9791036639067_10006.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9791036643781",
+    "titre": "La locataire - Le nouveau roman de l'autrice de La femme de ménage",
+    "nb_sites": 1,
+    "meilleur_prix": 24.99,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 24.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/la-locataire-le-nouveau-roman-de-l-autrice-de-la-femme-de-menage-9791036643781_9791036643781_10006.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9791036641145",
+    "titre": "Le Boyfriend",
+    "nb_sites": 1,
+    "meilleur_prix": 24.99,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 24.99,
+    "Decitre_url": "https://www.decitre.fr/ebooks/le-boyfriend-9782824626598_9782824626598_9.html?sku=9791036641145_9791036641145_10006",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9780349132853",
+    "titre": "The Housemaid",
+    "nb_sites": 1,
+    "meilleur_prix": 25.0,
+    "meilleurs_sites": [
+      "Decitre"
+    ],
+    "Decitre_prix": 25.0,
+    "Decitre_url": "https://www.decitre.fr/livres/the-housemaid-9780349132853.html",
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": null,
+    "Momox_url": null
+  },
+  {
+    "ean": "9791036642623",
+    "titre": "La femme de ménage Tome 3",
     "nb_sites": 2,
-    "meilleur_prix": 22.9,
-    "meilleurs_sites": [
-      "Eyrolles",
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 22.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/douze-ans-apres-9782226498885/",
-    "Mollat_prix": 22.9,
-    "Mollat_url": "https://www.mollat.com/livres/3399101/lisa-gardner-douze-ans-apres"
-  },
-  {
-    "ean": "9782226470096",
-    "titre": "8,2 secondes",
-    "nb_sites": 1,
-    "meilleur_prix": 22.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 22.9,
-    "Decitre_url": "https://www.decitre.fr/livres/8-2-secondes-9782226470096.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782374485713",
-    "titre": "Le fantôme de Versailles",
-    "nb_sites": 1,
-    "meilleur_prix": 22.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 22.9,
-    "Decitre_url": "https://www.decitre.fr/livres/le-fantome-de-versailles-9782374485713.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782258211063",
-    "titre": "Une si lente agonie",
-    "nb_sites": 1,
-    "meilleur_prix": 22.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 22.9,
-    "Decitre_url": "https://www.decitre.fr/livres/une-si-lente-agonie-9782258211063.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782809853179",
-    "titre": "56 jours",
-    "nb_sites": 1,
-    "meilleur_prix": 23.0,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 23.0,
-    "Mollat_url": "https://www.mollat.com/livres/3408570/catherine-ryan-howard-56-jours"
-  },
-  {
-    "ean": "9782385802288",
-    "titre": "Deux vies et un soleil",
-    "nb_sites": 1,
-    "meilleur_prix": 23.1,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 23.1,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/deux-vies-et-un-soleil-9782385802288/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782383992660",
-    "titre": "Le Roi des cendres",
-    "nb_sites": 2,
-    "meilleur_prix": 23.5,
+    "meilleur_prix": 25.9,
     "meilleurs_sites": [
       "Decitre",
-      "Mollat"
-    ],
-    "Decitre_prix": 23.5,
-    "Decitre_url": "https://www.decitre.fr/livres/le-roi-des-cendres-9782383992660.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 23.5,
-    "Mollat_url": "https://www.mollat.com/livres/3362371/s-a-cosby-le-roi-des-cendres"
-  },
-  {
-    "ean": "9782330215866",
-    "titre": "Tout le monde sait",
-    "nb_sites": 1,
-    "meilleur_prix": 23.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 23.5,
-    "Mollat_url": "https://www.mollat.com/livres/3406047/jordan-harper-tout-le-monde-sait"
-  },
-  {
-    "ean": "9782749182889",
-    "titre": "L'héritage du Vatican. Une enquête de Cotton Malone",
-    "nb_sites": 1,
-    "meilleur_prix": 23.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 23.9,
-    "Decitre_url": "https://www.decitre.fr/livres/l-heritage-du-vatican-9782749182889.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782383992370",
-    "titre": "Noir comme l'enfer",
-    "nb_sites": 1,
-    "meilleur_prix": 23.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 23.9,
-    "Decitre_url": "https://www.decitre.fr/livres/noir-comme-l-enfer-9782383992370.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782213726366",
-    "titre": "Une enquête de l'inspecteur Sean Duffy. Du sang sur les pierres",
-    "nb_sites": 1,
-    "meilleur_prix": 23.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 23.9,
-    "Mollat_url": "https://www.mollat.com/livres/3368220/adrian-mckinty-une-enquete-de-l-inspecteur-sean-duffy-du-sang-sur-les-pierres"
-  },
-  {
-    "ean": "9782080470775",
-    "titre": "Bleus, blancs, rouges. Vol. 3. 14 juillet",
-    "nb_sites": 1,
-    "meilleur_prix": 24.5,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 24.5,
-    "Mollat_url": "https://www.mollat.com/livres/3400233/benjamin-dierstein-bleus-blancs-rouges-vol-3-14-juillet"
-  },
-  {
-    "ean": "9782226501943",
-    "titre": "Cache-cache",
-    "nb_sites": 1,
-    "meilleur_prix": 24.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 24.9,
-    "Mollat_url": "https://www.mollat.com/livres/3354118/soren-sveistrup-cache-cache"
-  },
-  {
-    "ean": "9782351781548",
-    "titre": "La cabane dans les arbres",
-    "nb_sites": 1,
-    "meilleur_prix": 24.9,
-    "meilleurs_sites": [
-      "Mollat"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": 24.9,
-    "Mollat_url": "https://www.mollat.com/livres/3345106/vera-buck-la-cabane-dans-les-arbres"
-  },
-  {
-    "ean": "9782383992189",
-    "titre": "Qui est coupable ?",
-    "nb_sites": 1,
-    "meilleur_prix": 24.9,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 24.9,
-    "Decitre_url": "https://www.decitre.fr/livres/qui-est-coupable-9782383992189.html",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782265158849",
-    "titre": "A retardement",
-    "nb_sites": 1,
-    "meilleur_prix": 24.95,
-    "meilleurs_sites": [
-      "Decitre"
-    ],
-    "Decitre_prix": 24.95,
-    "Decitre_url": "https://www.decitre.fr/livres/a-retardement-9782265157811.html?sku=9782265158849",
-    "Eyrolles_prix": null,
-    "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9791038154629",
-    "titre": "Agents secrets - l'intégrale",
-    "nb_sites": 1,
-    "meilleur_prix": 24.99,
-    "meilleurs_sites": [
       "Eyrolles"
     ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 24.99,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/agents-secrets-l-integrale-9791038154629/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Decitre_prix": 25.9,
+    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-3-la-femme-de-menage-voit-tout-9782290415634.html?sku=9791036642623",
+    "Eyrolles_prix": 25.9,
+    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/la-femme-de-menage-voit-tout-tome-3-9791036642623/",
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9791035330378",
-    "titre": "Les enquêtes de charlotte auduc - l'intégrale",
-    "nb_sites": 1,
-    "meilleur_prix": 24.99,
-    "meilleurs_sites": [
-      "Eyrolles"
-    ],
-    "Decitre_prix": null,
-    "Decitre_url": null,
-    "Eyrolles_prix": 24.99,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/les-enquetes-de-charlotte-auduc-l-integrale-9791035330378/",
-    "Mollat_prix": null,
-    "Mollat_url": null
-  },
-  {
-    "ean": "9782824626963",
-    "titre": "La femme de ménage Tome 1 - Edition collector",
+    "ean": "9791036647918",
+    "titre": "Le Boyfriend",
     "nb_sites": 1,
     "meilleur_prix": 25.9,
     "meilleurs_sites": [
       "Decitre"
     ],
     "Decitre_prix": 25.9,
-    "Decitre_url": "https://www.decitre.fr/livres/la-femme-de-menage-tome-1-9782824626963.html",
+    "Decitre_url": "https://www.decitre.fr/livres/le-boyfriend-9782824627151.html?sku=9791036647918",
     "Eyrolles_prix": null,
     "Eyrolles_url": null,
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Momox_prix": null,
+    "Momox_url": null
   },
   {
-    "ean": "9782709668385",
-    "titre": "Le secret des secrets",
+    "ean": "9789895701124",
+    "titre": "A Criada",
     "nb_sites": 1,
-    "meilleur_prix": 25.9,
+    "meilleur_prix": 42.49,
     "meilleurs_sites": [
-      "Eyrolles"
+      "Momox"
     ],
     "Decitre_prix": null,
     "Decitre_url": null,
-    "Eyrolles_prix": 25.9,
-    "Eyrolles_url": "https://www.eyrolles.com/Litterature/Livre/le-secret-des-secrets-9782709668385/",
-    "Mollat_prix": null,
-    "Mollat_url": null
+    "Eyrolles_prix": null,
+    "Eyrolles_url": null,
+    "Momox_prix": 42.49,
+    "Momox_url": "https://www.momox-shop.fr/a-criada-paperback-M09895701128.html"
   }
 ]
