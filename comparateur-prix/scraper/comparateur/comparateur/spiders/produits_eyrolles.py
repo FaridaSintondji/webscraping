@@ -1,9 +1,12 @@
 import scrapy
+import re
 from ..items import ComparateurItem
+
 
 class ProduitsEyrollesSpider(scrapy.Spider):
     name = "produits_eyrolles"
-    allowed_domains = ["www.eyrolles.com"]
+    allowed_domains = ["www.eyrolles.com", "eyrolles.com"]
+
     start_urls = [
         "https://www.eyrolles.com/Recherche/?q=Auteur%20:%20Freida%20McFadden"
     ]
@@ -37,17 +40,27 @@ class ProduitsEyrollesSpider(scrapy.Spider):
     
     def parse_lien(self, response, item):
         """
-        PAGE DETAIL D'UN LIVRE
-        - on récupère le titre et le prix
+        Page produit -> extrait titre, prix, ean, url
         """
 
-        titre = response.xpath("//h1[@class='grisbleudense']/text()").get()
-        prix = response.xpath("//p[@class='prix']/@content").get()
+        item["site"] = "Eyrolles"
+        item["url"] = response.url
 
-        if prix is None:
-            morceaux = response.xpath("//p[@class='prix']//text()").getall()
+        #Récupération du titre du livre
+        titre = response.css("h1::text").get()
+        if not titre:
+            titre = response.xpath("//h1/text()").get()
+        item["titre"] = titre.strip() if titre else None
+
+        #Récupération du prix (brut) -> nettoyage géré par le pipeline
+        # (logique capture : récupérer le content/@content si dispo)
+        prix = response.xpath("string(//p[contains(@class,'prix')]/@content)").get()
+        if not prix:
+            # fallback: texte affiché
+            morceaux = response.xpath("//p[contains(@class,'prix')]//text()").getall()
             morceaux = [m.strip() for m in morceaux if m.strip()]
-            prix = "".join(morceaux)
+            prix = "".join(morceaux) if morceaux else None
+        item["prix"] = prix
 
         # Si pas de titre ou pas de prix → on ignore cette page
         if not titre or not prix:
@@ -56,6 +69,18 @@ class ProduitsEyrollesSpider(scrapy.Spider):
         item['titre']=titre
         item['prix']=prix
         item['site']='Eyrolles'
+        #Récupération de l'EAN
+        ean = response.xpath("string(//td[contains(@itemprop,'gtin13')]/@content)").get()
+        if not ean:
+            # fallback au texte si jamais
+            ean = response.xpath(
+                "string(//td[contains(.,'EAN')]/following-sibling::td[1])"
+            ).get()
+
+        if ean:
+            ean = re.sub(r"\D", "", ean)
+            if len(ean) != 13:
+                ean = None
+        item["ean"] = ean
 
         yield item
-

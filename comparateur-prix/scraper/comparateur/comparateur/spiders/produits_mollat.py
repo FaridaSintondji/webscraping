@@ -1,11 +1,10 @@
 import scrapy
 from ..items import ComparateurItem
 
+
 class ProduitsMollatSpider(scrapy.Spider):
     name = "produits_mollat"
     allowed_domains = ["www.mollat.com"]
-    
-    # Page de recherche
     start_urls = [
         "https://www.mollat.com/Recherche?requete=McFadden%2C%20Freida"
     ]
@@ -28,15 +27,15 @@ class ProduitsMollatSpider(scrapy.Spider):
             lien = livre.xpath('.//a/@href').get()
             item["url"] = response.urljoin(lien)
             if lien:
-                
+                yield response.follow(lien, callback=self.parse_lien)
 
-                yield response.follow(
-                    lien,
-                    callback=self.parse_lien,
-                    cb_kwargs={'item': item}
-                )
+        # pagination Mollat 
+        next_page = response.css("a[href*='page=']::attr(href)").getall()
+        for href in next_page:
+            yield response.follow(href, callback=self.parse)
 
-        
+    def parse_lien(self, response):
+        item = ComparateurItem()
 
     def parse_lien(self, response, item):
         """
@@ -54,5 +53,18 @@ class ProduitsMollatSpider(scrapy.Spider):
         item["titre"] = titre
         item["prix"] = prix
         item["site"] = "Mollat"
+        item["url"] = response.url
+
+        # EAN13
+        ean = response.xpath(
+            "//strong[normalize-space()='EAN13 :']/following-sibling::span[@class='badge-info']/text()"
+        ).get()
+
+        if not ean:
+            ean = response.xpath(
+                "normalize-space(//strong[contains(normalize-space(.), 'EAN13')]/following::span[@class='badge-info'][1])"
+            ).get()
+
+        item["ean"] = ean.strip() if ean else None
 
         yield item
