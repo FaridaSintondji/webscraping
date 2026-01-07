@@ -1,5 +1,11 @@
 __pycache__/
 *.pyc
+<<<<<<< HEAD
 .env
 output/*.jl
 output/*.json
+=======
+*.pyo
+*.pyd
+.Python
+>>>>>>> bf1b7a5 (Creation de container)
