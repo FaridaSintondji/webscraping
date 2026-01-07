@@ -6,12 +6,7 @@ from ..items import ComparateurItem
 class ProduitsDecitreSpider(scrapy.Spider):
     name = "produits_decitre"
     allowed_domains = ["www.decitre.fr"]
-
-    # Tu peux garder livres.html si tu veux (comme ton fichier)
-    # start_urls = ["https://www.decitre.fr/livres.html"]
-
-    # URL plus "thématique" (si tu veux tester sur Polars nouveautés)
-    start_urls = ["https://www.decitre.fr/livres/litterature/polars/nouveautes.html"]
+    start_urls = ["https://www.decitre.fr/auteur/16234522/freida+mcfadden"]
 
     def parse(self, response):
 
@@ -21,23 +16,23 @@ class ProduitsDecitreSpider(scrapy.Spider):
             item = ComparateurItem()
             #Récupération du lien du livre
             lien = book.xpath('./div[@class="product-card-infos__details"]/div[@class="product-card-infos__details__texts"]/a/@href').get()
-
+            #Utilisation de urljoin pour transformer le lien récupéré en un vrai lien qui marche
+            item['url'] = response.urljoin(lien)
             #On vérifie si le lien existe
             if lien:
-                #Utilisation de urljoin pour transformer le lien récupéré en un vrai lien qui marche
-                item['url'] = response.urljoin(lien)
+                yield response.follow(lien, 
+                                    callback = self.parse_lien,
+                                    #utilisation de cb_kwargs pour passer l'objet item à la classe parse_lien
+                                    cb_kwargs={'item':item})
+            
+            #Pour scraper sur les autres pages s'il y en a
+            next_pages = response.xpath('//a[contains(@href, "?p=")]/@href').getall()
 
-                yield response.follow(
-                    lien,
-                    callback=self.parse_lien,
-                    #utilisation de cb_kwargs pour passer l'objet item à la classe parse_lien
-                    cb_kwargs={'item': item}
-                )
-
-        # --- Pagination : page suivante
-        next_page = response.css("a[rel='next']::attr(href)").get()
-        if next_page:
-            yield response.follow(next_page, callback=self.parse)
+            if next_pages:
+                self.logger.info(f"Liens de pagination trouvés : {len(next_pages)}")
+                
+                for page_url in next_pages:
+                    yield response.follow(page_url, callback=self.parse)
 
     def parse_lien(self, response, item):
         #Récupération du titre du livre

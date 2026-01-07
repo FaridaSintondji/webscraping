@@ -21,13 +21,11 @@ services:
     volumes:
       - ./scraper:/app
     working_dir: /app/comparateur
-    command: tail -f /dev/null          # Il attend que la BDD soit lancée avant de démarrer
     networks:
       - mon_reseau        # Il se branche sur le même "câble" que la db
     # Cette commande lance le robot automatiquement
-    #command: sh -c "scrapy crawl produits_decitre && scrapy crawl produits_eyrolles"
-    ports:
-      - "8501:8501"
+    command: sh -c "sleep 10 && scrapy crawl produits_decitre ; scrapy crawl produits_eyrolles ; scrapy crawl produits_momox"
+
   # phpmyadmin
   phpmyadmin:
     image: phpmyadmin/phpmyadmin

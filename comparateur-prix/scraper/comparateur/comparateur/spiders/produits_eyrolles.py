@@ -8,47 +8,36 @@ class ProduitsEyrollesSpider(scrapy.Spider):
     allowed_domains = ["www.eyrolles.com", "eyrolles.com"]
 
     start_urls = [
-        "https://www.eyrolles.com/Litterature/Theme/2392/policier-thriller-polars/"
+        "https://www.eyrolles.com/Recherche/?q=Auteur%20:%20Freida%20McFadden"
     ]
 
     def parse(self, response):
         """
-        Page catégorie -> récupère tous les liens produit, puis suit chaque lien.
-        (logique captures : récupérer tous les href + filtrer /Livre/)
+        PAGE DE RESULTATS
+        - on récupère les liens des livres
+        - on suit chaque lien vers parse_lien
         """
 
-        # 1) récupérer tous les href et filtrer ceux des pages produit
-        hrefs = response.xpath("//a/@href").getall()
-        book_links = sorted(set([h for h in hrefs if h and "/Livre/" in h]))
+        livres = response.xpath("//a[contains(@href, '/Livre/')]")
 
-        self.logger.info(f"[EYROLLES] {response.url} -> {len(book_links)} liens livres")
-        if book_links:
-            self.logger.info(f"[EYROLLES] exemple lien : {book_links[0]}")
+        self.logger.info(f"NB LIENS TROUVES: {len(livres)}")
 
-        for lien in book_links:
+        for livre in livres:
             item = ComparateurItem()
+            lien = livre.xpath("./@href").get()
+            item['url'] = response.urljoin(lien)
+            if lien:
+                yield response.follow(lien, callback=self.parse_lien, cb_kwargs={'item':item})
 
-            #Récupération du lien du livre
-            item["url"] = response.urljoin(lien)
-
-            yield response.follow(
-                lien,
-                callback=self.parse_lien,
-                #utilisation de cb_kwargs pour passer l'objet item à la classe parse_lien
-                cb_kwargs={"item": item},
-            )
-
-        # 2) pagination (si présente) - logique captures (plusieurs fallbacks)
-        next_page = (
-            response.css("a.action.next::attr(href)").get()
-            or response.xpath("//a[contains(., 'Suivant')]/@href").get()
-            or response.xpath("//a[contains(@class,'next')]/@href").get()
-            or response.xpath("//a[@rel='next']/@href").get()
-        )
+        # Pagination (si jamais il y a une page suivante)
+        next_page = response.xpath('//a[@aria-label="Suivant"]/@href').get()
 
         if next_page:
+            self.logger.info(f"Eyrolles - Page suivante trouvée : {next_page}")
+            
             yield response.follow(next_page, callback=self.parse)
 
+    
     def parse_lien(self, response, item):
         """
         Page produit -> extrait titre, prix, ean, url
@@ -73,6 +62,13 @@ class ProduitsEyrollesSpider(scrapy.Spider):
             prix = "".join(morceaux) if morceaux else None
         item["prix"] = prix
 
+        # Si pas de titre ou pas de prix → on ignore cette page
+        if not titre or not prix:
+            return
+
+        item['titre']=titre
+        item['prix']=prix
+        item['site']='Eyrolles'
         #Récupération de l'EAN
         ean = response.xpath("string(//td[contains(@itemprop,'gtin13')]/@content)").get()
         if not ean:
