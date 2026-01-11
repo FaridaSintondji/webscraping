@@ -2,6 +2,12 @@ version: '3.8'
 #Base de données
 services:
   db:
+    image: mysql:5.7
+    command: >
+      --innodb-buffer-pool-size=64M
+      --innodb-log-buffer-size=8M
+      --max-connections=50
+
     build: ./db
     environment:
       MYSQL_ROOT_PASSWORD: toto
@@ -25,6 +31,21 @@ services:
       - mon_reseau        # Il se branche sur le même "câble" que la db
     # Cette commande lance le robot automatiquement
     command: sh -c "sleep 10 && scrapy crawl produits_decitre ; scrapy crawl produits_eyrolles ; scrapy crawl produits_momox"
+
+  
+  comparateur:
+    build:
+      context: ./scraper
+      dockerfile: Dockerfile
+    container_name: comparateur-streamlit
+    volumes:
+      - ./scraper:/app
+    ports:
+      - "8502:8501"
+    depends_on:
+      - db
+
+
 
   # phpmyadmin
   phpmyadmin:

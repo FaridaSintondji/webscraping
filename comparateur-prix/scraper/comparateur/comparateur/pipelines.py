@@ -47,7 +47,13 @@ class MysqlPipeline:
         )
         mycursor=mydb.cursor()
 
-        sql = "INSERT INTO Livre (titre, prix, url, site, ean) VALUES (%s, %s, %s, %s, %s)"
+        sql = """INSERT INTO Livre (titre, prix, url, site, ean) VALUES (%s, %s, %s, %s, %s)
+        ON DUPLICATE KEY UPDATE
+            titre=VALUES(titre),
+            prix=VALUES(prix),
+            site=VALUES(site),
+            ean=VALUES(ean)
+        """
         val = (
             item.get('titre'),
             item.get('prix'),
@@ -55,6 +61,7 @@ class MysqlPipeline:
             item.get('site'),
             item.get('ean')
         )
+
         mycursor.execute(sql, val)
         mydb.commit()
         print(mycursor.rowcount, "record inserted.")
