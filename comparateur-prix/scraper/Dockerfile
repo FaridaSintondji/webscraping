@@ -20,7 +20,5 @@ WORKDIR /app/comparateur
 # 6. La commande par défaut (sera remplacée par celle du docker-compose)
 CMD ["scrapy", "list"]
 
-# --- Streamlit ---
 EXPOSE 8501
 
-CMD python compare.py && streamlit run app.py --server.port=8501 --server.address=0.0.0.0
